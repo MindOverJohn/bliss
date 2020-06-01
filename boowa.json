@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-01T01:06:49+00:00",
+  "lastUpdated": "2020-06-01T11:04:13+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -307,7 +307,9 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 44,
+                "validityPeriodEnd": "6000-06-01T11:01:02+00:00"
               },
               "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
               "episodeNumber": 15,
@@ -686,7 +688,9 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 79,
+                "validityPeriodEnd": "6000-06-01T11:02:10+00:00"
               },
               "thumbnail": "https://i.ibb.co/1f2T6JT/My-Sandcastle.jpg",
               "episodeNumber": 34,
@@ -818,7 +822,14 @@
               "id": "503aa901891542f6a477bdd6a3fb017b",
               "title": "Scary wary",
               "content": {
-                "dateAdded": "2020-05-23T00:35:25+00:00"
+                "dateAdded": "2020-05-23T00:35:25+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_hnvtkl23/v/2/ev/3/flavorId/0_7reecqqq/fileName/Scary_wary_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ]
               },
               "thumbnail": "https://i.ibb.co/LgS7kKx/Scary-wary.jpg",
               "episodeNumber": 41,
@@ -877,7 +888,8 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 58
               },
               "thumbnail": "https://i.ibb.co/HX3598w/Skip-Skip-Plop.jpg",
               "episodeNumber": 44,
@@ -1728,7 +1740,8 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 300
               },
               "thumbnail": "https://i.ibb.co/LYS8CDJ/Let-039-s-Play-Tennis.jpg",
               "episodeNumber": 19,
@@ -1747,7 +1760,8 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 300
               },
               "thumbnail": "https://i.ibb.co/BqCcC8M/The-Mirror.jpg",
               "episodeNumber": 20,
