@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-01T11:11:50+00:00",
+  "lastUpdated": "2020-06-01T12:39:08+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -2554,7 +2554,7 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300,
+                "duration": 61,
                 "validityPeriodEnd": "6000-05-27T08:05:46+00:00"
               },
               "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
@@ -2667,6 +2667,146 @@
               "releaseDate": "2020-06-01",
               "shortDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !",
               "longDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !"
+            },
+            {
+              "id": "35cbb1e1028e4951880009a1a6801838",
+              "title": "Joyeux anniversaire Kwala",
+              "content": {
+                "dateAdded": "2020-06-01T11:36:37+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_0xpbr2ax/v/2/ev/1/flavorId/0_5v0bg0ff/fileName/birthdaySongKwala_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 42
+              },
+              "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
+              "episodeNumber": 7,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !",
+              "longDescription": "Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !"
+            },
+            {
+              "id": "04e4ef3bf6314aa5a1c1eb1178939766",
+              "title": "Joyeux anniversaire... Boowa !",
+              "content": {
+                "dateAdded": "2020-06-01T11:45:53+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_usez9bbt/v/2/ev/1/flavorId/0_nsicvm4f/fileName/birthdaysong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 22
+              },
+              "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
+              "episodeNumber": 8,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Kwala chante joyeux anniversaire à son ami Boowa.",
+              "longDescription": "Kwala chante joyeux anniversaire à son ami Boowa."
+            },
+            {
+              "id": "cc89f785c7784e9eba70955834acf4df",
+              "title": "Peux-tu faire pareil que moi",
+              "content": {
+                "dateAdded": "2020-06-01T12:13:43+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_hwdw8z6h/v/2/ev/1/flavorId/0_pzagchzx/fileName/wriggleSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 68
+              },
+              "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
+              "episodeNumber": 9,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?",
+              "longDescription": "Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?"
+            },
+            {
+              "id": "b2d87028895c49c9a3aacc40587575b3",
+              "title": "J'attends",
+              "content": {
+                "dateAdded": "2020-06-01T12:17:57+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_h3fc4gxj/v/2/ev/1/flavorId/0_zd1sbify/fileName/waitingSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59
+              },
+              "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
+              "episodeNumber": 10,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !",
+              "longDescription": "Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !"
+            },
+            {
+              "id": "4421ada4d0114439be0e883761555c81",
+              "title": "Du bidon",
+              "content": {
+                "dateAdded": "2020-06-01T12:21:42+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3xxubvic/v/2/ev/1/flavorId/0_r6ygijup/fileName/tumSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74
+              },
+              "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
+              "episodeNumber": 11,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala.",
+              "longDescription": "Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala."
+            },
+            {
+              "id": "cd7c652038a24563a03db242d37c4018",
+              "title": "Le tic tac doux",
+              "content": {
+                "dateAdded": "2020-06-01T12:30:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_1mnxazvm/v/2/ev/1/flavorId/0_esmuj94d/fileName/tickTockSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 101
+              },
+              "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
+              "episodeNumber": 12,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!",
+              "longDescription": "Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!"
+            },
+            {
+              "id": "bc688064df4947b5ae1ac941065b155d",
+              "title": "My Favorite Peluche",
+              "content": {
+                "dateAdded": "2020-06-01T12:34:46+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fto8umli/v/2/ev/1/flavorId/0_5yy4qrjw/fileName/teddySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78
+              },
+              "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
+              "episodeNumber": 13,
+              "releaseDate": "2020-06-01",
+              "shortDescription": "(S4 | Chansons) : Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?",
+              "longDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?"
             }
           ],
           "thumbnail": ""
