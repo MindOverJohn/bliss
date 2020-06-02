@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-02T03:44:09+00:00",
+  "lastUpdated": "2020-06-02T04:47:07+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -23,7 +23,7 @@
                   }
                 ],
                 "duration": 44,
-                "validityPeriodEnd": "3000-05-15T02:27:09+00:00"
+                "validityPeriodEnd": "6000-05-15T04:22:34+00:00"
               },
               "thumbnail": "https://i.ibb.co/kgTk8YT/beepbeepsong.jpg",
               "episodeNumber": 1,
@@ -44,7 +44,7 @@
                   }
                 ],
                 "duration": 74,
-                "validityPeriodEnd": "3000-05-15T02:32:31+00:00"
+                "validityPeriodEnd": "6000-05-15T04:22:47+00:00"
               },
               "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
               "episodeNumber": 2,
@@ -65,7 +65,7 @@
                   }
                 ],
                 "duration": 53,
-                "validityPeriodEnd": "3000-05-15T02:35:57+00:00"
+                "validityPeriodEnd": "6000-05-15T04:23:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/rFWr2fX/A-Butterfly-Flies-Bysong.jpg",
               "episodeNumber": 3,
@@ -86,7 +86,7 @@
                   }
                 ],
                 "duration": 50,
-                "validityPeriodEnd": "3000-05-15T02:39:34+00:00"
+                "validityPeriodEnd": "6000-05-15T04:23:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/mBtJr5P/busybee.jpg",
               "episodeNumber": 4,
@@ -107,7 +107,7 @@
                   }
                 ],
                 "duration": 81,
-                "validityPeriodEnd": "3000-05-15T02:43:15+00:00"
+                "validityPeriodEnd": "6000-05-15T04:23:22+00:00"
               },
               "thumbnail": "https://i.ibb.co/Mh2M43Q/Bodyboarding.jpg",
               "episodeNumber": 5,
@@ -128,7 +128,7 @@
                   }
                 ],
                 "duration": 71,
-                "validityPeriodEnd": "3000-05-15T02:45:07+00:00"
+                "validityPeriodEnd": "6000-05-15T04:23:34+00:00"
               },
               "thumbnail": "https://i.ibb.co/710QMS6/Boowa-Kwala-Theme-Tune.jpg",
               "episodeNumber": 6,
@@ -148,11 +148,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 59
+                "duration": 59,
+                "validityPeriodEnd": "6000-06-02T04:24:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/C9Hn2wc/Boowa-and-Kwala-we-are-and-Dawa.jpg",
               "episodeNumber": 7,
-              "releaseDate": "2016-12-12",
+              "releaseDate": "2008-12-12",
               "shortDescription": "(S1 | SONGS) : The Wawa family... Dawa, Mawa and Siwa are helping Boowa and Kwala perform their favorite song in Dawa's studio... Sing along with them !!",
               "longDescription": "The Wawa family... Dawa, Mawa and Siwa are helping Boowa and Kwala perform their favorite song in Dawa's studio... Sing along with them !!"
             },
@@ -168,11 +169,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 74
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-02T04:24:19+00:00"
               },
               "thumbnail": "https://i.ibb.co/rpJgJh7/Bye-Bye-We-re-Moving-House.jpg",
               "episodeNumber": 8,
-              "releaseDate": "2016-12-13",
+              "releaseDate": "2008-12-13",
               "shortDescription": "(S1 | SONGS) : But well be closer than We've ever been in our hearts :o)",
               "longDescription": "But well be closer than We've ever been in our hearts :o)"
             },
@@ -188,11 +190,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 59
+                "duration": 59,
+                "validityPeriodEnd": "6000-06-02T04:24:49+00:00"
               },
               "thumbnail": "https://i.ibb.co/mv79cqj/Cuddly-Hug.jpg",
               "episodeNumber": 9,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-12-13",
               "shortDescription": "(S1 | SONGS) : Sing along with Boowa and Kwala... maybe you can cuddle along, too !",
               "longDescription": "Sing along with Boowa and Kwala... maybe you can cuddle along, too !"
             },
@@ -208,11 +211,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 79
+                "duration": 79,
+                "validityPeriodEnd": "6000-06-02T04:25:22+00:00"
               },
               "thumbnail": "https://i.ibb.co/yRybQvY/Echo-cho-cho-cho-cho-cho-cho.jpg",
               "episodeNumber": 10,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : Sing this fun echo song... with a friend !",
               "longDescription": "Sing this fun echo song... with a friend !"
             },
@@ -228,11 +232,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 21
+                "duration": 21,
+                "validityPeriodEnd": "6000-06-02T04:25:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/8syxKQ4/Daddys-song.jpg",
               "episodeNumber": 11,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : Kwala will teach you the song - you sing it to dad.",
               "longDescription": "Kwala will teach you the song - you sing it to dad."
             },
@@ -248,11 +253,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 82
+                "duration": 82,
+                "validityPeriodEnd": "6000-06-02T04:31:37+00:00"
               },
               "thumbnail": "https://i.ibb.co/yB6cT6p/Experiments-Give-Experience.jpg",
               "episodeNumber": 12,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : I like to try things out , things I don't know much about... sing along with us !",
               "longDescription": "I like to try things out , things I don't know much about... sing along with us !"
             },
@@ -268,11 +274,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 71
+                "duration": 71,
+                "validityPeriodEnd": "6000-06-02T04:32:02+00:00"
               },
               "thumbnail": "https://i.ibb.co/k03VDGy/Fiddly-Finger-Thing.jpg",
               "episodeNumber": 13,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : When I look at Daddy's hands mine seem so small, but now they don't seem small at all...",
               "longDescription": "When I look at Daddy's hands mine seem so small, but now they don't seem small at all..."
             },
@@ -288,11 +295,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 27
+                "duration": 27,
+                "validityPeriodEnd": "6000-06-02T04:32:20+00:00"
               },
               "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
               "episodeNumber": 14,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : Hear Kwala sing for Boowa on his birthday. Very tuneful.",
               "longDescription": "Hear Kwala sing for Boowa on his birthday. Very tuneful."
             },
@@ -313,7 +321,7 @@
               },
               "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
               "episodeNumber": 15,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Sing along with Boowa, or just have fun making funny noises with Kwala!",
               "longDescription": "Sing along with Boowa, or just have fun making funny noises with Kwala!"
             },
@@ -329,11 +337,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 72
+                "duration": 72,
+                "validityPeriodEnd": "6000-06-02T04:32:54+00:00"
               },
               "thumbnail": "https://i.ibb.co/vJMmNs6/Heads-and-shoulders-knees-and-toes.jpg",
               "episodeNumber": 16,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : A famous song sung by Boowa and Kwala.",
               "longDescription": "A famous song sung by Boowa and Kwala."
             },
@@ -349,11 +358,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 60
+                "duration": 60,
+                "validityPeriodEnd": "6000-06-02T04:33:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/vsKvJZk/Hello-Mister-Squirrel.jpg",
               "episodeNumber": 17,
-              "releaseDate": "2020-05-20",
+              "releaseDate": "2008-05-20",
               "shortDescription": "(S1 | SONGS) : Hello Mister Squirrel  I'm watching you... watching me!",
               "longDescription": "Hello Mister Squirrel  I'm watching you... watching me!"
             },
@@ -369,11 +379,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 80
+                "duration": 80,
+                "validityPeriodEnd": "6000-06-02T04:33:46+00:00"
               },
               "thumbnail": "https://i.ibb.co/ZzxKwQS/Hello-hello.jpg",
               "episodeNumber": 18,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : A special song for saying... HELLO ! Boowa, Kwala and Siwa put on a puppet show and sing at the same time !",
               "longDescription": "A special song for saying... HELLO ! Boowa, Kwala and Siwa put on a puppet show and sing at the same time !"
             },
@@ -389,11 +400,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 44
+                "duration": 44,
+                "validityPeriodEnd": "6000-06-02T04:33:54+00:00"
               },
               "thumbnail": "https://i.ibb.co/ZBkSmcZ/Hooray-Another-sunny-day.jpg",
               "episodeNumber": 19,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : It's another sunny day... for singing with Boowa, Kwala and Dawa !!!",
               "longDescription": "It's another sunny day... for singing with Boowa, Kwala and Dawa !!!"
             },
@@ -409,11 +421,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 46
+                "duration": 46,
+                "validityPeriodEnd": "6000-06-02T04:34:20+00:00"
               },
               "thumbnail": "https://i.ibb.co/dcfyGVW/Hooray-for-Christmas.jpg",
               "episodeNumber": 20,
-              "releaseDate": "2016-12-11",
+              "releaseDate": "2008-12-11",
               "shortDescription": "(S1 | SONGS) : Kwala invented this special Christmas song... She wants you to jump up and down and cheer ! Can you do that for her ?",
               "longDescription": "Kwala invented this special Christmas song... She wants you to jump up and down and cheer ! Can you do that for her ?"
             },
@@ -429,11 +442,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 59
+                "duration": 59,
+                "validityPeriodEnd": "6000-06-02T04:34:35+00:00"
               },
               "thumbnail": "https://i.ibb.co/YXND2Ww/How-many-sheep.jpg",
               "episodeNumber": 21,
-              "releaseDate": "2016-12-11",
+              "releaseDate": "2008-12-11",
               "shortDescription": "(S1 | SONGS) : How many sheep can you jump in one go ? Boowa and Kwala find out how many THEY can jump !",
               "longDescription": "How many sheep can you jump in one go ? Boowa and Kwala find out how many THEY can jump !"
             },
@@ -449,11 +463,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 67
+                "duration": 67,
+                "validityPeriodEnd": "6000-06-02T04:34:55+00:00"
               },
               "thumbnail": "https://i.ibb.co/BVy2W1p/I-Can-t-See.jpg",
               "episodeNumber": 22,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S1 | SONGS) : Even when we can't see properly, we can still play music and sing !",
               "longDescription": "Even when we can't see properly, we can still play music and sing !"
             },
@@ -469,11 +484,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 95
+                "duration": 95,
+                "validityPeriodEnd": "6000-06-02T04:35:11+00:00"
               },
               "thumbnail": "https://i.ibb.co/x1cbhS0/I-Don-t-Want-to-Sleep-Alone.jpg",
               "episodeNumber": 23,
-              "releaseDate": "2020-05-21",
+              "releaseDate": "2008-05-21",
               "shortDescription": "(S1 | SONGS) : Sing with Siwa (your parents can sing with Mawa and Dawa !",
               "longDescription": "Sing with Siwa (your parents can sing with Mawa and Dawa !"
             },
@@ -489,11 +505,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 81
+                "duration": 81,
+                "validityPeriodEnd": "6000-06-02T04:35:26+00:00"
               },
               "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
               "episodeNumber": 24,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Is the treasure lost... or just hiding ?",
               "longDescription": "Is the treasure lost... or just hiding ?"
             },
@@ -509,11 +526,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 61
+                "duration": 61,
+                "validityPeriodEnd": "6000-06-02T04:35:42+00:00"
               },
               "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
               "episodeNumber": 25,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S1 | SONGS) : There are sooooo many things you can do with snow... Boowa and Kwala sing about why THEY love snow. Why do YOU love snow, though ?",
               "longDescription": "There are sooooo many things you can do with snow... Boowa and Kwala sing about why THEY love snow. Why do YOU love snow, though ?"
             },
@@ -529,11 +547,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 54
+                "duration": 54,
+                "validityPeriodEnd": "6000-06-02T04:35:58+00:00"
               },
               "thumbnail": "https://i.ibb.co/fn8G9Rm/I-m-a-Rainbow.jpg",
               "episodeNumber": 26,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa is a raincloud, Kwala is the sun... guess who is the Rainbow ????",
               "longDescription": "Boowa is a raincloud, Kwala is the sun... guess who is the Rainbow ????"
             },
@@ -549,7 +568,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 74
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-02T04:36:09+00:00"
               },
               "thumbnail": "https://i.ibb.co/jJjDNVf/I-m-not-scared-about-anything.jpg",
               "episodeNumber": 27,
@@ -569,11 +589,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 62
+                "duration": 62,
+                "validityPeriodEnd": "6000-06-02T04:36:25+00:00"
               },
               "thumbnail": "https://i.ibb.co/wSt3Rb5/If-you-are-happy.jpg",
               "episodeNumber": 28,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : A famous song sung by Boowa and Kwala.",
               "longDescription": "A famous song sung by Boowa and Kwala."
             },
@@ -589,11 +610,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 97
+                "duration": 97,
+                "validityPeriodEnd": "6000-06-02T04:36:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/8Mqz9Wq/Kiss-and-a-cuddle.jpg",
               "episodeNumber": 29,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : The stars are out, it's getting late, and I can't get to sleep... I feel scared, I feel sad, I need my mum I need my dad",
               "longDescription": "The stars are out, it's getting late, and I can't get to sleep... I feel scared, I feel sad, I need my mum I need my dad"
             },
@@ -609,11 +631,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 143
+                "duration": 143,
+                "validityPeriodEnd": "6000-06-02T04:36:51+00:00"
               },
               "thumbnail": "https://i.ibb.co/sPFnXC1/Munchie-munchie-munchie.jpg",
               "episodeNumber": 30,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Munchie, munchie, munchie",
               "longDescription": "Munchie, munchie, munchie"
             },
@@ -629,11 +652,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 69
+                "duration": 69,
+                "validityPeriodEnd": "6000-06-02T04:37:05+00:00"
               },
               "thumbnail": "https://i.ibb.co/g7pwhvj/Music-for-Everyone.jpg",
               "episodeNumber": 31,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Dawa wants to share as much music with his friends and family as he possibly can.",
               "longDescription": "Dawa wants to share as much music with his friends and family as he possibly can."
             },
@@ -649,11 +673,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 64
+                "duration": 64,
+                "validityPeriodEnd": "6000-06-02T04:37:26+00:00"
               },
               "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
               "episodeNumber": 32,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Kwala's favorite cuddly toy is a rabbit. Boowa's is a shell.",
               "longDescription": "Kwala's favorite cuddly toy is a rabbit. Boowa's is a shell."
             },
@@ -669,11 +694,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 65
+                "duration": 65,
+                "validityPeriodEnd": "6000-06-02T04:37:49+00:00"
               },
               "thumbnail": "https://i.ibb.co/h866fcQ/My-Favorite-Sandwich.jpg",
               "episodeNumber": 33,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Grandma Koala knows a REALLY good song about how to make her favorite sandwich...",
               "longDescription": "Grandma Koala knows a REALLY good song about how to make her favorite sandwich..."
             },
@@ -694,7 +720,7 @@
               },
               "thumbnail": "https://i.ibb.co/1f2T6JT/My-Sandcastle.jpg",
               "episodeNumber": 34,
-              "releaseDate": "2020-05-22",
+              "releaseDate": "2008-05-22",
               "shortDescription": "(S1 | SONGS) : A song to sing on the beach or in the sandpit",
               "longDescription": "A song to sing on the beach or in the sandpit"
             },
@@ -710,11 +736,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 83
+                "duration": 83,
+                "validityPeriodEnd": "6000-06-02T04:38:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/4p8sZ8H/Old-Mac-Donald-Had-a-Farm.jpg",
               "episodeNumber": 35,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Eeaieeaioh! Sing along with Boowa and Kwala...",
               "longDescription": "Eeaieeaioh! Sing along with Boowa and Kwala..."
             },
@@ -730,11 +757,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 76
+                "duration": 76,
+                "validityPeriodEnd": "6000-06-02T04:38:27+00:00"
               },
               "thumbnail": "https://i.ibb.co/WgZ6W0g/Once-I-caught-a-fish-alive.jpg",
               "episodeNumber": 36,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Once I caught a fish alive. Sung in a deep voice by Boowa.\"",
               "longDescription": "Once I caught a fish alive. Sung in a deep voice by Boowa."
             },
@@ -750,11 +778,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 83
+                "duration": 83,
+                "validityPeriodEnd": "6000-06-02T04:38:52+00:00"
               },
               "thumbnail": "https://i.ibb.co/jwKjqDS/Playball-Song.jpg",
               "episodeNumber": 37,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala sing about playing ball.",
               "longDescription": "Boowa and Kwala sing about playing ball."
             },
@@ -770,11 +799,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 78
+                "duration": 78,
+                "validityPeriodEnd": "6000-06-02T04:39:05+00:00"
               },
               "thumbnail": "https://i.ibb.co/WgwDWF9/Please-Say-Cheese.jpg",
               "episodeNumber": 38,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Taking photos is fun. It is best when people smile for the photographer",
               "longDescription": "Taking photos is fun. It is best when people smile for the photographer"
             },
@@ -790,11 +820,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 94
+                "duration": 94,
+                "validityPeriodEnd": "6000-06-02T04:39:20+00:00"
               },
               "thumbnail": "https://i.ibb.co/mBHgj5B/Salt-is-salty-and-sugar-is-sweet.jpg",
               "episodeNumber": 39,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Grandma Koala is making delicious dishes, but she need to find that little bit extra to make them REALLY special.",
               "longDescription": "Grandma Koala is making delicious dishes, but she need to find that little bit extra to make them REALLY special."
             },
@@ -810,11 +841,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 58
+                "duration": 58,
+                "validityPeriodEnd": "6000-06-02T04:39:32+00:00"
               },
               "thumbnail": "https://i.ibb.co/sy8Sr8m/Say-Hello-to-the-Animals.jpg",
               "episodeNumber": 40,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : How do you say hello to a pussy cat ? Just say Meow..",
               "longDescription": "How do you say hello to a pussy cat ? Just say Meow.."
             },
@@ -830,11 +862,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 76
+                "duration": 76,
+                "validityPeriodEnd": "6000-06-02T04:39:45+00:00"
               },
               "thumbnail": "https://i.ibb.co/LgS7kKx/Scary-wary.jpg",
               "episodeNumber": 41,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : This song frightens Kwala, just a little...",
               "longDescription": "This song frightens Kwala, just a little..."
             },
@@ -850,11 +883,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 74
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-02T04:40:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/Tcxrh45/Singing-in-the-Shower.jpg",
               "episodeNumber": 42,
-              "releaseDate": "2020-05-23",
+              "releaseDate": "2008-05-23",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala love to take a shower",
               "longDescription": "Boowa and Kwala love to take a shower"
             },
@@ -870,11 +904,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 53
+                "duration": 53,
+                "validityPeriodEnd": "6000-06-02T04:40:15+00:00"
               },
               "thumbnail": "https://i.ibb.co/7ykhqHC/Six-green-frogs.jpg",
               "episodeNumber": 43,
-              "releaseDate": "2020-05-23",
+              "releaseDate": "2008-05-23",
               "shortDescription": "(S1 | SONGS) : Six green frogs, sitting on a lily pad. What do you think they say ?",
               "longDescription": "Six green frogs, sitting on a lily pad. What do you think they say ?"
             },
@@ -890,11 +925,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 58
+                "duration": 58,
+                "validityPeriodEnd": "6000-06-02T04:40:27+00:00"
               },
               "thumbnail": "https://i.ibb.co/HX3598w/Skip-Skip-Plop.jpg",
               "episodeNumber": 44,
-              "releaseDate": "2020-05-23",
+              "releaseDate": "2008-05-23",
               "shortDescription": "(S1 | SONGS) : Listen carefully... Boowa explains how to skip stones on the water !",
               "longDescription": "Listen carefully... Boowa explains how to skip stones on the water !"
             },
@@ -910,11 +946,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 78
+                "duration": 78,
+                "validityPeriodEnd": "6000-06-02T04:40:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/tKmYLXG/Superheroes-Save-The-World.jpg",
               "episodeNumber": 46,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : If you want to be a Superhero... all you need to do is tidy up some rubbish.",
               "longDescription": "If you want to be a Superhero... all you need to do is tidy up some rubbish."
             },
@@ -930,11 +967,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 87
+                "duration": 87,
+                "validityPeriodEnd": "6000-06-02T04:40:53+00:00"
               },
               "thumbnail": "https://i.ibb.co/q0phHMJ/Boowa-Songs.jpg",
               "episodeNumber": 46,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : One banana, two bananas... The fruit and vegetable counting song. Sung by Boowa",
               "longDescription": "One banana, two bananas... The fruit and vegetable counting song. Sung by Boowa"
             },
@@ -950,11 +988,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 60
+                "duration": 60,
+                "validityPeriodEnd": "6000-06-02T04:41:08+00:00"
               },
               "thumbnail": "https://i.ibb.co/Y3G58PG/The-Bored-Song.jpg",
               "episodeNumber": 47,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Kwala is Bored..",
               "longDescription": "Kwala is Bored.."
             },
@@ -970,11 +1009,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 75
+                "duration": 75,
+                "validityPeriodEnd": "6000-06-02T04:41:22+00:00"
               },
               "thumbnail": "https://i.ibb.co/vZRVsMT/The-Chocco-Song.jpg",
               "episodeNumber": 48,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : What do you find in a chicken ? What do you find in an egg ? Sing along !",
               "longDescription": "What do you find in a chicken ? What do you find in an egg ? Sing along !"
             },
@@ -990,11 +1030,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 84
+                "duration": 84,
+                "validityPeriodEnd": "6000-06-02T04:41:36+00:00"
               },
               "thumbnail": "https://i.ibb.co/BV3YGHf/The-Chopsticks-Song.jpg",
               "episodeNumber": 49,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala teach us how to use Chopsticks",
               "longDescription": "Boowa and Kwala teach us how to use Chopsticks"
             },
@@ -1010,11 +1051,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 93
+                "duration": 93,
+                "validityPeriodEnd": "6000-06-02T04:41:55+00:00"
               },
               "thumbnail": "https://i.ibb.co/NWb6mx7/The-Singalong-Birdy.jpg",
               "episodeNumber": 50,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : A long, long title for a fun, fun song ! Sing it right, and ALL the birds will sing along.",
               "longDescription": "A long, long title for a fun, fun song ! Sing it right, and ALL the birds will sing along."
             },
@@ -1030,11 +1072,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 74
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-02T04:42:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/pz5XXSH/The-Color-Song.jpg",
               "episodeNumber": 51,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala are mixing primary colors...",
               "longDescription": "Boowa and Kwala are mixing primary colors..."
             },
@@ -1050,11 +1093,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 86
+                "duration": 86,
+                "validityPeriodEnd": "6000-06-02T04:42:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/KsvtdzY/The-Friend-Song.jpg",
               "episodeNumber": 52,
-              "releaseDate": "2016-12-13",
+              "releaseDate": "2008-12-13",
               "shortDescription": "(S1 | SONGS) : Siwa sings friend song",
               "longDescription": "Siwa sings friend song"
             },
@@ -1070,11 +1114,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 61
+                "duration": 61,
+                "validityPeriodEnd": "6000-06-02T04:42:59+00:00"
               },
               "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg",
               "episodeNumber": 53,
-              "releaseDate": "2016-12-13",
+              "releaseDate": "2008-12-13",
               "shortDescription": "(S1 | SONGS) : Kwala sings about running",
               "longDescription": "Kwala sings about running"
             },
@@ -1090,11 +1135,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 92
+                "duration": 92,
+                "validityPeriodEnd": "6000-06-02T04:43:25+00:00"
               },
               "thumbnail": "https://i.ibb.co/zs4YvxV/The-Scare-Crow-Song.jpg",
               "episodeNumber": 54,
-              "releaseDate": "2016-12-21",
+              "releaseDate": "2008-12-21",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala sing about the scarecrow",
               "longDescription": "Boowa and Kwala sing about the scarecrow"
             },
@@ -1110,11 +1156,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 63
+                "duration": 63,
+                "validityPeriodEnd": "6000-06-02T04:43:43+00:00"
               },
               "thumbnail": "https://i.ibb.co/F6fQRH4/The-Sooner-I-Get-to-Bed.jpg",
               "episodeNumber": 55,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : A little ditty that makes going to bed something to look forward to !",
               "longDescription": "A little ditty that makes going to bed something to look forward to !"
             },
@@ -1130,11 +1177,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 79
+                "duration": 79,
+                "validityPeriodEnd": "6000-06-02T04:43:57+00:00"
               },
               "thumbnail": "https://i.ibb.co/HqmKhz6/The-cleaning-up-song.jpg",
               "episodeNumber": 56,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : When Boowa and Kwala have to clean up, this fun little ditty helps them along !",
               "longDescription": "When Boowa and Kwala have to clean up, this fun little ditty helps them along !"
             },
@@ -1150,11 +1198,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 68
+                "duration": 68,
+                "validityPeriodEnd": "6000-06-02T04:44:26+00:00"
               },
               "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
               "episodeNumber": 57,
-              "releaseDate": "2020-05-24",
+              "releaseDate": "2008-05-24",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala perform the wriggle dance",
               "longDescription": "Boowa and Kwala perform the wriggle dance"
             },
@@ -1170,11 +1219,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 60
+                "duration": 60,
+                "validityPeriodEnd": "6000-06-02T04:44:43+00:00"
               },
               "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
               "episodeNumber": 58,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S1 | SONGS) : Waiting for green beans to grow can be a bit dull. Luckily Daddy Koala",
               "longDescription": "Waiting for green beans to grow can be a bit dull. Luckily Daddy Koala"
             },
@@ -1190,11 +1240,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 84
+                "duration": 84,
+                "validityPeriodEnd": "6000-06-02T04:45:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/3kdtFGv/whatdoesdadsong.jpg",
               "episodeNumber": 59,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Kwala sings & My Mum's a pastry cook & she's a little confused...",
               "longDescription": "Kwala sings & My Mum's a pastry cook & she's a little confused..."
             },
@@ -1210,11 +1261,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 34
+                "duration": 34,
+                "validityPeriodEnd": "6000-06-02T04:45:20+00:00"
               },
               "thumbnail": "https://i.ibb.co/D1W0Hcp/Trick-or-Treat.jpg",
               "episodeNumber": 60,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala sing about Trick or Treating",
               "longDescription": "Boowa and Kwala sing about Trick or Treating"
             },
@@ -1230,11 +1282,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 62
+                "duration": 62,
+                "validityPeriodEnd": "6000-06-02T04:45:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
               "episodeNumber": 61,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : How do you know it is 4 O'clock ? Ask Kwala, she has a good way to remember !",
               "longDescription": "How do you know it is 4 O'clock ? Ask Kwala, she has a good way to remember !"
             },
@@ -1250,11 +1303,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 65
+                "duration": 65,
+                "validityPeriodEnd": "6000-06-02T04:45:57+00:00"
               },
               "thumbnail": "https://i.ibb.co/w0MpvFy/The-twirly-dance-game.jpg",
               "episodeNumber": 62,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Have you tried using a swim ring as a tutu ? Boowa and Kwala sing and dance their almost ballet...",
               "longDescription": "Have you tried using a swim ring as a tutu ? Boowa and Kwala sing and dance their almost ballet..."
             },
@@ -1270,11 +1324,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 20
+                "duration": 20,
+                "validityPeriodEnd": "6000-06-02T04:46:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/3B4L8jf/The-song.jpg",
               "episodeNumber": 63,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala sing in the snow.",
               "longDescription": "Boowa and Kwala sing in the snow."
             },
@@ -1290,11 +1345,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 65
+                "duration": 65,
+                "validityPeriodEnd": "6000-06-02T04:46:26+00:00"
               },
               "thumbnail": "https://i.ibb.co/vwf1jWz/The-jungle-creep.jpg",
               "episodeNumber": 64,
-              "releaseDate": "2020-05-24",
+              "releaseDate": "2008-05-24",
               "shortDescription": "(S1 | SONGS) : Boowa sings the song. His friend plays the bass.",
               "longDescription": "Boowa sings the song. His friend plays the bass."
             },
@@ -1310,11 +1366,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 56
+                "duration": 56,
+                "validityPeriodEnd": "6000-06-02T04:46:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/K2r0sc8/When-you-open-up-a-music-box.jpg",
               "episodeNumber": 65,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : If you know what happens when you open up a music box...",
               "longDescription": "If you know what happens when you open up a music box..."
             },
@@ -1330,11 +1387,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 68
+                "duration": 68,
+                "validityPeriodEnd": "6000-06-02T04:46:52+00:00"
               },
               "thumbnail": "https://i.ibb.co/xhnmrd6/When-I-go-to-sleep.jpg",
               "episodeNumber": 66,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : I dream about all the lovely things I want to eat. A yummy song.",
               "longDescription": "I dream about all the lovely things I want to eat. A yummy song."
             },
@@ -1350,11 +1408,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 72
+                "duration": 72,
+                "validityPeriodEnd": "6000-06-02T04:47:07+00:00"
               },
               "thumbnail": "https://i.ibb.co/wN0B4hv/What-have-you-got-in-your-pot.jpg",
               "episodeNumber": 67,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S1 | SONGS) : Boowa and Mummy Koala are cooking up strange bubbling potions in their cauldrons.",
               "longDescription": "Boowa and Mummy Koala are cooking up strange bubbling potions in their cauldrons."
             }
@@ -2388,7 +2447,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 80
+                "duration": 120,
+                "validityPeriodEnd": "6000-06-02T04:16:25+00:00"
               },
               "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg",
               "episodeNumber": 1,
@@ -2408,7 +2468,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 80
+                "duration": 56,
+                "validityPeriodEnd": "6000-06-02T04:16:42+00:00"
               },
               "thumbnail": "https://i.ibb.co/wWJ8NKZ/Current-Photots2.jpg",
               "episodeNumber": 2,
@@ -2428,7 +2489,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 78
+                "duration": 78,
+                "validityPeriodEnd": "6000-06-02T04:17:12+00:00"
               },
               "thumbnail": "https://i.ibb.co/yN1Y7LD/Drawing-Gallery-2015-2014.jpg",
               "episodeNumber": 3,
@@ -2448,7 +2510,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 80
+                "duration": 120,
+                "validityPeriodEnd": "6000-06-02T04:17:35+00:00"
               },
               "thumbnail": "https://i.ibb.co/ZSqQ7k7/Gallery-1.jpg",
               "episodeNumber": 4,
@@ -2468,7 +2531,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 80
+                "duration": 80,
+                "validityPeriodEnd": "6000-06-02T04:18:13+00:00"
               },
               "thumbnail": "https://i.ibb.co/yBwn55r/Gallery-2.jpg",
               "episodeNumber": 5,
@@ -2488,7 +2552,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 99
+                "duration": 99,
+                "validityPeriodEnd": "6000-06-02T04:18:58+00:00"
               },
               "thumbnail": "https://i.ibb.co/Q97K4Bm/Gallery-3.jpg",
               "episodeNumber": 6,
@@ -2508,7 +2573,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 93
+                "duration": 93,
+                "validityPeriodEnd": "6000-06-02T04:19:52+00:00"
               },
               "thumbnail": "https://i.ibb.co/kgRg7ns/Gallery-4.jpg",
               "episodeNumber": 7,
@@ -2528,7 +2594,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 87
+                "duration": 87,
+                "validityPeriodEnd": "6000-06-02T04:20:15+00:00"
               },
               "thumbnail": "https://i.ibb.co/Sw9dytS/Gallery-5.jpg",
               "episodeNumber": 8,
