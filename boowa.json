@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-02T04:47:07+00:00",
+  "lastUpdated": "2020-06-02T05:04:34+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -1409,7 +1409,7 @@
                   }
                 ],
                 "duration": 72,
-                "validityPeriodEnd": "6000-06-02T04:47:07+00:00"
+                "validityPeriodEnd": "6000-06-02T04:47:09+00:00"
               },
               "thumbnail": "https://i.ibb.co/wN0B4hv/What-have-you-got-in-your-pot.jpg",
               "episodeNumber": 67,
@@ -1436,7 +1436,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T03:00:04+00:00"
+                "validityPeriodEnd": "6000-05-15T04:49:19+00:00"
               },
               "thumbnail": "https://i.ibb.co/jyqQJh1/The-Festival-of-Lights.jpg",
               "episodeNumber": 1,
@@ -1457,7 +1457,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T02:59:31+00:00"
+                "validityPeriodEnd": "6000-05-15T04:49:31+00:00"
               },
               "thumbnail": "https://i.ibb.co/2j5RbVC/Six-Green-Frogs.jpg",
               "episodeNumber": 2,
@@ -1478,7 +1478,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T03:04:32+00:00"
+                "validityPeriodEnd": "6000-05-15T04:49:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/H7W6MPC/The-Garden-Orchestra.jpg",
               "episodeNumber": 3,
@@ -1499,7 +1499,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T03:06:33+00:00"
+                "validityPeriodEnd": "6000-05-15T04:49:46+00:00"
               },
               "thumbnail": "https://i.ibb.co/S3CXZWs/The-Musical-scarecrow.jpg",
               "episodeNumber": 4,
@@ -1520,7 +1520,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T03:08:40+00:00"
+                "validityPeriodEnd": "6000-05-15T04:49:54+00:00"
               },
               "thumbnail": "https://i.ibb.co/KrnsDK4/Camping.jpg",
               "episodeNumber": 5,
@@ -1541,7 +1541,7 @@
                   }
                 ],
                 "duration": 300,
-                "validityPeriodEnd": "3000-05-15T03:13:18+00:00"
+                "validityPeriodEnd": "6000-05-15T04:50:03+00:00"
               },
               "thumbnail": "https://i.ibb.co/ykXvvT5/Magic-Tricks.jpg",
               "episodeNumber": 6,
@@ -1561,11 +1561,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:50:16+00:00"
               },
               "thumbnail": "https://i.ibb.co/jkm6xZv/The-Music-Boxes.jpg",
               "episodeNumber": 7,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS :Two inseparable friends Boowa, a kind and wise blue dog who loves playing games, laughing and singing, and Kwala, a small yellow koala bear who is funny, full of energy and a bit cheeky.",
               "longDescription": "Two inseparable friends Boowa, a kind and wise blue dog who loves playing games, laughing and singing, and Kwala, a small yellow koala bear who is funny, full of energy and a bit cheeky..."
             },
@@ -1581,11 +1582,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:50:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/6vLL1ws/The-Birdhouses.jpg",
               "episodeNumber": 8,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala build a house for the birds. How can they get the birds to move in ?",
               "longDescription": "Boowa and Kwala build a house for the birds. How can they get the birds to move in ?"
             },
@@ -1601,11 +1603,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:50:50+00:00"
               },
               "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg",
               "episodeNumber": 9,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Kwala takes some photos for her album. Kwala can tell who is in the photos, but no-one else can.",
               "longDescription": "Kwala takes some photos for her album. Kwala can tell who is in the photos, but no-one else can."
             },
@@ -1621,11 +1624,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:51:02+00:00"
               },
               "thumbnail": "https://i.ibb.co/XxWs6yy/Mushy-mushrooms.jpg",
               "episodeNumber": 10,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala are in the forest to see the animals. But they don't blend into the forest. How about dressing up as mushrooms ?\",",
               "longDescription": "Boowa and Kwala are in the forest to see the animals. But they don't blend into the forest. How about dressing up as mushrooms ?"
             },
@@ -1641,11 +1645,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:51:13+00:00"
               },
               "thumbnail": "https://i.ibb.co/rxsRN3Q/An-Imaginary-Friend.jpg",
               "episodeNumber": 11,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) :  Is it a bird ? Is it a cow ? Is it a cat ? Kwala and Siwa invent friends for themselves.",
               "longDescription": "Is it a bird ? Is it a cow ? Is it a cat ? Kwala and Siwa invent friends for themselves."
             },
@@ -1661,11 +1666,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:51:26+00:00"
               },
               "thumbnail": "https://i.ibb.co/VqMgn7C/Nature-Super-Heroes.jpg",
               "episodeNumber": 12,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) :  Boowa and Kwala are Super Heroes of the World ! Today's super-action : save the river from the rubbish...",
               "longDescription": "Boowa and Kwala are Super Heroes of the World ! Today's super-action : save the river from the rubbish..."
             },
@@ -1681,11 +1687,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:51:38+00:00"
               },
               "thumbnail": "https://i.ibb.co/qJTkc9Y/The-Sandcastle.jpg",
               "episodeNumber": 13,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) :  Nothing can stop the sea, not even Boowa and Kwala's magnificent sandcastle.",
               "longDescription": "Nothing can stop the sea, not even Boowa and Kwala's magnificent sandcastle."
             },
@@ -1701,11 +1708,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:51:53+00:00"
               },
               "thumbnail": "https://i.ibb.co/YdyXjgX/Best-Friends.jpg",
               "episodeNumber": 14,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) :  How can Boowa and Kwala show that they are the Best Friends in the Whole Wide World ?",
               "longDescription": "How can Boowa and Kwala show that they are the Best Friends in the Whole Wide World ?"
             },
@@ -1721,11 +1729,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:52:04+00:00"
               },
               "thumbnail": "https://i.ibb.co/JHKFfDc/The-One-Man-Band.jpg",
               "episodeNumber": 15,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Dawa can play a lot of musical instruments... but can he play them all at once ?",
               "longDescription": "Dawa can play a lot of musical instruments... but can he play them all at once ?"
             },
@@ -1741,11 +1750,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:52:16+00:00"
               },
               "thumbnail": "https://i.ibb.co/YPxVM4D/Sweet-or-Salty.jpg",
               "episodeNumber": 16,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Salt and Sugar look the same. How can Boowa and Kwala tell them apart ?",
               "longDescription": "Salt and Sugar look the same. How can Boowa and Kwala tell them apart ?"
             },
@@ -1761,11 +1771,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:52:34+00:00"
               },
               "thumbnail": "https://i.ibb.co/qnGYnW9/Singing-in-the-shower.jpg",
               "episodeNumber": 17,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : It is far too hot for Boowa and Kwala today. What can they do to cool down ? Eat an ice cream ? Sit in the shade ? What would you do ?",
               "longDescription": "It is far too hot for Boowa and Kwala today. What can they do to cool down ? Eat an ice cream ? Sit in the shade ? What would you do ?"
             },
@@ -1781,11 +1792,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:52:47+00:00"
               },
               "thumbnail": "https://i.ibb.co/VqtRYSs/Sheep-Jumping.jpg",
               "episodeNumber": 18,
-              "releaseDate": "2020-05-24",
+              "releaseDate": "2008-05-24",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala want to play sheep jumping... but the sheep don't !",
               "longDescription": "Boowa and Kwala want to play sheep jumping... but the sheep don't !"
             },
@@ -1801,11 +1813,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:52:58+00:00"
               },
               "thumbnail": "https://i.ibb.co/LYS8CDJ/Let-039-s-Play-Tennis.jpg",
               "episodeNumber": 19,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : When you throw a ball up in the air, it always comes back down. What happens when Boowa and Kwala hit it ?",
               "longDescription": "When you throw a ball up in the air, it always comes back down. What happens when Boowa and Kwala hit it ?"
             },
@@ -1821,11 +1834,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:53:09+00:00"
               },
               "thumbnail": "https://i.ibb.co/BqCcC8M/The-Mirror.jpg",
               "episodeNumber": 20,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala play « Magic Mirrors. Who will be the first to get someone to say the word mirror?",
               "longDescription": "Boowa and Kwala play « Magic Mirrors. Who will be the first to get someone to say the word mirror?"
             },
@@ -1841,11 +1855,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:53:21+00:00"
               },
               "thumbnail": "https://i.ibb.co/nDLsSsR/4-O-039-Clocksies.jpg",
               "episodeNumber": 21,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa andBoowa and Kwala are impatiently waiting for snack time. Time goes by more quickly when they count elephants.",
               "longDescription": "Boowa andBoowa and Kwala are impatiently waiting for snack time. Time goes by more quickly when they count elephants."
             },
@@ -1861,11 +1876,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:53:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/TczPnFm/Ducks.jpg",
               "episodeNumber": 22,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Can Boowa and Kwala walk, swim and fly, just like a duckling ?",
               "longDescription": "Can Boowa and Kwala walk, swim and fly, just like a duckling ?"
             },
@@ -1881,11 +1897,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:53:53+00:00"
               },
               "thumbnail": "https://i.ibb.co/JrQ4sXD/The-restaurant.jpg",
               "episodeNumber": 23,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Siwa has just opened her Three Star Fairy Restaurant Kwala just can't make up her mind what to order.",
               "longDescription": "Siwa has just opened her Three Star Fairy Restaurant Kwala just can't make up her mind what to order."
             },
@@ -1901,11 +1918,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:54:10+00:00"
               },
               "thumbnail": "https://i.ibb.co/1bd6VQ7/The-cute-kitten.jpg",
               "episodeNumber": 24,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala are looking for Mummy cat. Who can help them ? Mummy Cow, Mummy goat...",
               "longDescription": "Boowa and Kwala are looking for Mummy cat. Who can help them ? Mummy Cow, Mummy goat..."
             },
@@ -1921,11 +1939,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:54:27+00:00"
               },
               "thumbnail": "https://i.ibb.co/ncrVhBf/We-love-snow.jpg",
               "episodeNumber": 25,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala stumble on some strange shapes in the snow. What can they be ?",
               "longDescription": "Boowa and Kwala stumble on some strange shapes in the snow. What can they be ?"
             },
@@ -1941,11 +1960,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:54:39+00:00"
               },
               "thumbnail": "https://i.ibb.co/f0c80fz/Sewing.jpg",
               "episodeNumber": 26,
-              "releaseDate": "2020-05-24",
+              "releaseDate": "2008-05-24",
               "shortDescription": "(S2 | VIDEOS) : Mummy Koala helps Boowa and Kwala sew. Kwala makes a special something for a special someone.",
               "longDescription": "Mummy Koala helps Boowa and Kwala sew. Kwala makes a special something for a special someone."
             },
@@ -1961,11 +1981,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:54:51+00:00"
               },
               "thumbnail": "https://i.ibb.co/BCP9sbV/Butterfly.jpg",
               "episodeNumber": 27,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala meet butterflies and funny caterpillars in the woods. Kwala wonders if butterflies are caterpillars who fly",
               "longDescription": "Boowa and Kwala meet butterflies and funny caterpillars in the woods. Kwala wonders if butterflies are caterpillars who fly"
             },
@@ -1981,11 +2002,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:55:04+00:00"
               },
               "thumbnail": "https://i.ibb.co/T4hQqyx/Playing-in-the-stars.jpg",
               "episodeNumber": 28,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala are gazing at the moon. Kwala wants to visit all the planets before going to bed.",
               "longDescription": "Boowa and Kwala are gazing at the moon. Kwala wants to visit all the planets before going to bed."
             },
@@ -2001,11 +2023,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:55:21+00:00"
               },
               "thumbnail": "https://i.ibb.co/fd9gq27/Kwala-039-s-birthday.jpg",
               "episodeNumber": 29,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : It is January 26 -- Over -- Kwala's birthday -- Over -- Operation Birthday Spies is « GO » -- Over and Out.",
               "longDescription": "It is January 26 -- Over -- Kwala's birthday -- Over -- Operation Birthday Spies is « GO » -- Over and Out."
             },
@@ -2021,11 +2044,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:55:33+00:00"
               },
               "thumbnail": "https://i.ibb.co/SwS0wJk/The-Doctor.jpg",
               "episodeNumber": 30,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Quick Doctor Siwa, make Boowa and Kwala better !",
               "longDescription": "Quick Doctor Siwa, make Boowa and Kwala better !"
             },
@@ -2041,11 +2065,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:55:49+00:00"
               },
               "thumbnail": "https://i.ibb.co/WGH5HFS/The-Singing-Lessons.jpg",
               "episodeNumber": 31,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala love to sing and play music. But not everyone likes to listen.",
               "longDescription": "Boowa and Kwala love to sing and play music. But not everyone likes to listen."
             },
@@ -2061,11 +2086,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:56:04+00:00"
               },
               "thumbnail": "https://i.ibb.co/y49CZD2/Let-039-s-make-a-potion.jpg",
               "episodeNumber": 32,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala dress up as witches to make a magic potion. But who will be foolish enough to drink some ?",
               "longDescription": "Boowa and Kwala dress up as witches to make a magic potion. But who will be foolish enough to drink some ?"
             },
@@ -2081,11 +2107,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:56:19+00:00"
               },
               "thumbnail": "https://i.ibb.co/bzhQb3f/Windy-Things.jpg",
               "episodeNumber": 33,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Kwala's hat is blown away by the wind. How annoying ! The wind doesn't do anything useful. Or does it ?",
               "longDescription": "Kwala's hat is blown away by the wind. How annoying ! The wind doesn't do anything useful. Or does it ?"
             },
@@ -2101,11 +2128,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:56:30+00:00"
               },
               "thumbnail": "https://i.ibb.co/gwsTVfw/Christmas-tree-christmas.jpg",
               "episodeNumber": 34,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala put their stockings under the Christmas tree. They decide to sneak up on Father Christmas. But how ?",
               "longDescription": "(S2 | VIDEOS) : Boowa and Kwala put their stockings under the Christmas tree. They decide to sneak up on Father Christmas. But how ?"
             },
@@ -2121,11 +2149,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:56:48+00:00"
               },
               "thumbnail": "https://i.ibb.co/JkYfG2w/Vroom-Vroom.jpg",
               "episodeNumber": 35,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S2 | VIDEOS) : A cardboard box can be anything you want... What do you think Boowa and Kwala will do with theirs ?",
               "longDescription": "A cardboard box can be anything you want... What do you think Boowa and Kwala will do with theirs ?"
             },
@@ -2141,11 +2170,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:57:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/qDZngh7/What-do-you-find-in-an-egg.jpg",
               "episodeNumber": 36,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala collect some eggs so that Grandma Koala can bake a cake. But there are all sorts off eggs : duck eggs, goose eggs, hen eggs ...",
               "longDescription": "Boowa and Kwala collect some eggs so that Grandma Koala can bake a cake. But there are all sorts off eggs : duck eggs, goose eggs, hen eggs ..."
             },
@@ -2161,11 +2191,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:57:16+00:00"
               },
               "thumbnail": "https://i.ibb.co/T0bbMLq/What-can-we-do-laaaa.jpg",
               "episodeNumber": 37,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala are having a boring day... But is it really as boring as they think ?",
               "longDescription": "Boowa and Kwala are having a boring day... But is it really as boring as they think ?"
             },
@@ -2181,11 +2212,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:57:36+00:00"
               },
               "thumbnail": "https://i.ibb.co/NVHFY8j/Twirly-Dance-Game.jpg",
               "episodeNumber": 38,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S2 | VIDEOS) : What can Boowa and Kwala do with swim caps, swimsuits and rubber rings ?",
               "longDescription": "What can Boowa and Kwala do with swim caps, swimsuits and rubber rings ?"
             },
@@ -2201,11 +2233,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:57:53+00:00"
               },
               "thumbnail": "https://i.ibb.co/6v7m09F/The-disco-show.jpg",
               "episodeNumber": 39,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : What do Boowa and Kwala need for their disco show ? Sequins, lights, funny clothes, platform shoes and.... disco music ! Doodoodoop.",
               "longDescription": "What do Boowa and Kwala need for their disco show ? Sequins, lights, funny clothes, platform shoes and.... disco music ! Doodoodoop."
             },
@@ -2221,11 +2254,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:58:10+00:00"
               },
               "thumbnail": "https://i.ibb.co/r3W7dLq/Finger-Painting.jpg",
               "episodeNumber": 40,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Painting is fun. Painting with your fingers is even more fun. Mixing colors with your fingers is most fun of all!",
               "longDescription": "Painting is fun. Painting with your fingers is even more fun. Mixing colors with your fingers is most fun of all!"
             },
@@ -2241,11 +2275,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:58:27+00:00"
               },
               "thumbnail": "https://i.ibb.co/yyT2YPX/The-Snail-Race.jpg",
               "episodeNumber": 41,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : A rainy day and the snails are out ! But who do you think runs fastest ? Boowa, Kwala or the snail ?",
               "longDescription": "A rainy day and the snails are out ! But who do you think runs fastest ? Boowa, Kwala or the snail ?"
             },
@@ -2261,11 +2296,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:58:45+00:00"
               },
               "thumbnail": "https://i.ibb.co/fNJ2n9X/Tyding-Up.jpg",
               "episodeNumber": 42,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala play hide and seek, but what a mess they make ! Perhaps they can find a fun way to tidy up without magic.",
               "longDescription": "Boowa and Kwala play hide and seek, but what a mess they make ! Perhaps they can find a fun way to tidy up without magic."
             },
@@ -2281,11 +2317,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:59:00+00:00"
               },
               "thumbnail": "https://i.ibb.co/LJDMbtR/Cuddly-Rabbit.jpg",
               "episodeNumber": 43,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala are playing with Cuddly Rabbit and Cuddly Shell. What happens when Cuddly Rabbit meets a REAL rabbit family?",
               "longDescription": "Boowa and Kwala are playing with Cuddly Rabbit and Cuddly Shell. What happens when Cuddly Rabbit meets a REAL rabbit family?"
             },
@@ -2301,11 +2338,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:59:15+00:00"
               },
               "thumbnail": "https://i.ibb.co/2y27n5X/I-love-Strawberries.jpg",
               "episodeNumber": 44,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala go and pick some yummy strawberries in the garden, but find that a strawberry nibbler got there before them",
               "longDescription": "Boowa and Kwala go and pick some yummy strawberries in the garden, but find that a strawberry nibbler got there before them"
             },
@@ -2321,11 +2359,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:59:35+00:00"
               },
               "thumbnail": "https://i.ibb.co/gPCTDMN/The-busy-bees.jpg",
               "episodeNumber": 45,
-              "releaseDate": "2020-05-25",
+              "releaseDate": "2008-05-25",
               "shortDescription": "(S2 | VIDEOS) : Making honey with the bees, Daddy Koala is with his friends the bees. They are making honey... But what ARE Boowa and Kwala doing ?",
               "longDescription": "Making honey with the bees, Daddy Koala is with his friends the bees. They are making honey... But what ARE Boowa and Kwala doing ?"
             },
@@ -2341,11 +2380,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T04:59:49+00:00"
               },
               "thumbnail": "https://i.ibb.co/pZKQ8Xf/Pirate-treasure.jpg",
               "episodeNumber": 46,
-              "releaseDate": "2016-12-15",
+              "releaseDate": "2008-12-15",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala play at Pirates\\\\r\\\\nPirates dig for treasure...",
               "longDescription": "Boowa and Kwala play at Pirates\\\\r\\\\nPirates dig for treasure..."
             },
@@ -2361,11 +2401,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T05:00:10+00:00"
               },
               "thumbnail": "https://i.ibb.co/pWPfcSw/The-pyjama-party.jpg",
               "episodeNumber": 47,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Bedtime with Mummy Koala. Boowa is sleeping over at Kwala's house tonight. Mummy Koala wants to check that Boowa has brought everything he needs...",
               "longDescription": "Bedtime with Mummy Koala. Boowa is sleeping over at Kwala's house tonight. Mummy Koala wants to check that Boowa has brought everything he needs..."
             },
@@ -2381,11 +2422,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T05:00:27+00:00"
               },
               "thumbnail": "https://i.ibb.co/v1g1WG1/Puppets.jpg",
               "episodeNumber": 48,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Boowa, Kwala and Siwa are preparing a puppet show. Do you want to join in and play ?",
               "longDescription": "Boowa, Kwala and Siwa are preparing a puppet show. Do you want to join in and play ?"
             },
@@ -2401,11 +2443,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T05:00:42+00:00"
               },
               "thumbnail": "https://i.ibb.co/GpPcN8f/Ant-Art.jpg",
               "episodeNumber": 49,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : Boowa and Kwala discover a new way to draw !",
               "longDescription": "Boowa and Kwala discover a new way to draw !"
             },
@@ -2421,11 +2464,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 300,
+                "validityPeriodEnd": "6000-06-02T05:01:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/fk7vN4w/We-039-re-going-for-a-picnic.jpg",
               "episodeNumber": 50,
-              "releaseDate": "2016-12-16",
+              "releaseDate": "2008-12-16",
               "shortDescription": "(S2 | VIDEOS) : We're going on a picnic.. Kwala is so excited, that she has written a little song ! Boowa, Mummy Koala and Grandma Koala like this song A LOT !",
               "longDescription": "We're going on a picnic.. Kwala is so excited, that she has written a little song ! Boowa, Mummy Koala and Grandma Koala like this song A LOT !"
             }
@@ -2626,7 +2670,7 @@
               },
               "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
               "episodeNumber": 1,
-              "releaseDate": "2020-05-27",
+              "releaseDate": "2008-05-27",
               "shortDescription": "(S4 | Chansons) : Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent...",
               "longDescription": "(S4 | Chansons) : Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent..."
             },
@@ -2647,7 +2691,7 @@
               },
               "thumbnail": "https://i.ibb.co/wN0B4hv/What-have-you-got-in-your-pot.jpg",
               "episodeNumber": 2,
-              "releaseDate": "2017-10-01",
+              "releaseDate": "2008-10-01",
               "shortDescription": "(S4 | Chansons) : Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien...",
               "longDescription": "(S4 | Chansons) : Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien..."
             },
@@ -2668,7 +2712,7 @@
               },
               "thumbnail": "https://i.ibb.co/D1W0Hcp/Trick-or-Treat.jpg",
               "episodeNumber": 3,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) :  Boowa et Kwala chantent Des bonbons ou des bâtons",
               "longDescription": "(S4 | Chansons) :  Boowa et Kwala chantent Des bonbons ou des bâtons"
             },
@@ -2689,7 +2733,7 @@
               },
               "thumbnail": "https://i.ibb.co/vZRVsMT/The-Chocco-Song.jpg",
               "episodeNumber": 4,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) :  Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?",
               "longDescription": "(S4 | Chansons) :  Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?"
             },
@@ -2710,7 +2754,7 @@
               },
               "thumbnail": "https://i.ibb.co/w0MpvFy/The-twirly-dance-game.jpg",
               "episodeNumber": 5,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) :  As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !",
               "longDescription": "(S4 | Chansons) :  As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !"
             },
@@ -2731,7 +2775,7 @@
               },
               "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg",
               "episodeNumber": 6,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !",
               "longDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !"
             },
@@ -2752,7 +2796,7 @@
               },
               "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
               "episodeNumber": 7,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !",
               "longDescription": "Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !"
             },
@@ -2773,7 +2817,7 @@
               },
               "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
               "episodeNumber": 8,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Kwala chante joyeux anniversaire à son ami Boowa.",
               "longDescription": "Kwala chante joyeux anniversaire à son ami Boowa."
             },
@@ -2794,7 +2838,7 @@
               },
               "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
               "episodeNumber": 9,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-02",
               "shortDescription": "(S4 | Chansons) : Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?",
               "longDescription": "Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?"
             },
@@ -2815,7 +2859,7 @@
               },
               "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
               "episodeNumber": 10,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !",
               "longDescription": "Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !"
             },
@@ -2836,7 +2880,7 @@
               },
               "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
               "episodeNumber": 11,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala.",
               "longDescription": "Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala."
             },
@@ -2857,7 +2901,7 @@
               },
               "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
               "episodeNumber": 12,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!",
               "longDescription": "Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!"
             },
@@ -2878,7 +2922,7 @@
               },
               "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
               "episodeNumber": 13,
-              "releaseDate": "2020-06-01",
+              "releaseDate": "2008-06-01",
               "shortDescription": "(S4 | Chansons) : Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?",
               "longDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?"
             },
@@ -2899,7 +2943,7 @@
               },
               "thumbnail": "https://i.ibb.co/tKmYLXG/Superheroes-Save-The-World.jpg",
               "episodeNumber": 14,
-              "releaseDate": "2016-12-25",
+              "releaseDate": "2008-12-25",
               "shortDescription": "(S4 | Chansons) : Pour devenir des super-héros... Il suffit de ramasser quelques déchets !",
               "longDescription": "Pour devenir des super-héros... Il suffit de ramasser quelques déchets !"
             },
@@ -2920,7 +2964,7 @@
               },
               "thumbnail": "https://i.ibb.co/vJMmNs6/Heads-and-shoulders-knees-and-toes.jpg",
               "episodeNumber": 15,
-              "releaseDate": "2016-12-25",
+              "releaseDate": "2008-12-25",
               "shortDescription": "(S4 | Chansons) : Boowa et Kwala chantent Guili Guili.",
               "longDescription": "Boowa et Kwala chantent Guili Guili."
             },
@@ -2941,7 +2985,7 @@
               },
               "thumbnail": "https://i.ibb.co/x1cbhS0/I-Don-039-t-Want-to-Sleep-Alone.jpg",
               "episodeNumber": 16,
-              "releaseDate": "2016-12-25",
+              "releaseDate": "2008-12-25",
               "shortDescription": "(S4 | Chansons) : Chante avec Siwa tes parents chanteront avec Dawa!",
               "longDescription": "Chante avec Siwa tes parents chanteront avec Dawa!"
             }
