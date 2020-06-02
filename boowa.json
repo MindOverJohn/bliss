@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-02T05:04:34+00:00",
+  "lastUpdated": "2020-06-02T02:19:27+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -2988,6 +2988,90 @@
               "releaseDate": "2008-12-25",
               "shortDescription": "(S4 | Chansons) : Chante avec Siwa tes parents chanteront avec Dawa!",
               "longDescription": "Chante avec Siwa tes parents chanteront avec Dawa!"
+            },
+            {
+              "id": "df8fde53fcdc4adfbd0b7709f4ec5055",
+              "title": "Hop Hop Plouf",
+              "content": {
+                "dateAdded": "2020-06-02T13:57:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_v4ymojhu/v/2/ev/1/flavorId/0_h4zf4fis/fileName/skipStoneSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 58,
+                "validityPeriodEnd": "6000-06-02T14:02:00+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/HX3598w/Skip-Skip-Plop.jpg",
+              "episodeNumber": 17,
+              "releaseDate": "2008-12-02",
+              "shortDescription": "(S4 | Chansons) : Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !",
+              "longDescription": "Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !"
+            },
+            {
+              "id": "4793d58c685d41ba9f4c743e512fbef3",
+              "title": "J'aime chanter (sous la douche)",
+              "content": {
+                "dateAdded": "2020-06-02T14:04:27+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_78sm6t2j/v/2/ev/1/flavorId/0_i68ja2ue/fileName/showerSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 75,
+                "validityPeriodEnd": "6000-06-02T14:06:44+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Tcxrh45/Singing-in-the-Shower.jpg",
+              "episodeNumber": 18,
+              "releaseDate": "2008-06-02",
+              "shortDescription": "(S4 | Chansons) : Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !",
+              "longDescription": "Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !"
+            },
+            {
+              "id": "118b03d9d0714871a8ff58002a0d6e35",
+              "title": "Combien de moutons",
+              "content": {
+                "dateAdded": "2020-06-02T14:09:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_9818zt4b/v/2/ev/1/flavorId/0_0bk53hjz/fileName/sheepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "6000-06-02T14:11:10+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/YXND2Ww/How-many-sheep.jpg",
+              "episodeNumber": 19,
+              "releaseDate": "2008-06-02",
+              "shortDescription": "(S4 | Chansons) : Combien de moutons peut-on sauter d'un seul coup ?",
+              "longDescription": "Combien de moutons peut-on sauter d'un seul coup ?"
+            },
+            {
+              "id": "c0fba1b8b0cc44bd9b637f2813370541",
+              "title": "Je n'vois pas (devant moi)",
+              "content": {
+                "dateAdded": "2020-06-02T14:15:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6iwr8oni/v/2/ev/1/flavorId/0_3n7hmjj7/fileName/seeSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 68,
+                "validityPeriodEnd": "6000-06-02T14:17:43+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/BVy2W1p/I-Can-039-t-See.jpg",
+              "episodeNumber": 20,
+              "releaseDate": "2008-06-02",
+              "shortDescription": "(S4 | Chansons) : Même quand on ne voit pas bien, on peut jouer de la musique et chanter !",
+              "longDescription": "Même quand on ne voit pas bien, on peut jouer de la musique et chanter !"
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
