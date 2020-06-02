@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2020-06-01T12:57:18+00:00",
+  "lastUpdated": "2020-06-02T03:37:18+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
     {
       "id": "950609787035",
-      "title": "Boowa and Kwala | Boowa et kwala",
+      "title": "Boowa and Kwala  | Boowa et kwala",
       "seasons": [
         {
           "seasonNumber": 1,
@@ -932,7 +932,7 @@
                 ],
                 "duration": 87
               },
-              "thumbnail": "https://i.ibb.co/WDf7rWV/Boowa-Songs.jpg",
+              "thumbnail": "https://i.ibb.co/q0phHMJ/Boowa-Songs.jpg",
               "episodeNumber": 46,
               "releaseDate": "2016-12-14",
               "shortDescription": "(S1 | SONGS) : One banana, two bananas... The fruit and vegetable counting song. Sung by Boowa",
@@ -1152,7 +1152,7 @@
                 ],
                 "duration": 68
               },
-              "thumbnail": "https://i.ibb.co/yQHr9cX/thewigglesong.jpg",
+              "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
               "episodeNumber": 57,
               "releaseDate": "2020-05-24",
               "shortDescription": "(S1 | SONGS) : Boowa and Kwala perform the wriggle dance",
@@ -2680,7 +2680,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 42
+                "duration": 42,
+                "validityPeriodEnd": "6000-06-01T03:20:25+00:00"
               },
               "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
               "episodeNumber": 7,
@@ -2700,7 +2701,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 22
+                "duration": 22,
+                "validityPeriodEnd": "6000-06-01T03:20:32+00:00"
               },
               "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
               "episodeNumber": 8,
@@ -2720,7 +2722,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 68
+                "duration": 68,
+                "validityPeriodEnd": "6000-06-01T03:20:45+00:00"
               },
               "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
               "episodeNumber": 9,
@@ -2740,7 +2743,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 59
+                "duration": 59,
+                "validityPeriodEnd": "6000-06-01T03:20:52+00:00"
               },
               "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
               "episodeNumber": 10,
@@ -2760,7 +2764,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 74
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-01T03:20:59+00:00"
               },
               "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
               "episodeNumber": 11,
@@ -2780,7 +2785,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 101
+                "duration": 101,
+                "validityPeriodEnd": "6000-06-01T03:21:11+00:00"
               },
               "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
               "episodeNumber": 12,
@@ -2800,13 +2806,77 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 78
+                "duration": 78,
+                "validityPeriodEnd": "6000-06-01T03:21:18+00:00"
               },
               "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
               "episodeNumber": 13,
               "releaseDate": "2020-06-01",
               "shortDescription": "(S4 | Chansons) : Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?",
               "longDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?"
+            },
+            {
+              "id": "7aca8b48c2ca47a0ad13893f6f03ba45",
+              "title": "Super-héros de la nature",
+              "content": {
+                "dateAdded": "2020-06-02T03:17:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_xfapkjpl/v/2/ev/1/flavorId/0_e562eobz/fileName/superSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78,
+                "validityPeriodEnd": "6000-06-01T03:21:25+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/tKmYLXG/Superheroes-Save-The-World.jpg",
+              "episodeNumber": 14,
+              "releaseDate": "2016-12-25",
+              "shortDescription": "(S4 | Chansons) : Pour devenir des super-héros... Il suffit de ramasser quelques déchets !",
+              "longDescription": "Pour devenir des super-héros... Il suffit de ramasser quelques déchets !"
+            },
+            {
+              "id": "f966f2f0e37944f4923a62d33f769e79",
+              "title": "Tête, épaules, genoux, doigts de pieds",
+              "content": {
+                "dateAdded": "2020-06-02T03:25:16+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_92klgylg/v/2/ev/1/flavorId/0_wscpr72m/fileName/songdance_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 113,
+                "validityPeriodEnd": "6000-06-01T03:31:57+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/vJMmNs6/Heads-and-shoulders-knees-and-toes.jpg",
+              "episodeNumber": 15,
+              "releaseDate": "2016-12-25",
+              "shortDescription": "(S4 | Chansons) : Boowa et Kwala chantent Guili Guili.",
+              "longDescription": "Boowa et Kwala chantent Guili Guili."
+            },
+            {
+              "id": "3d7efd4160324a189a323531d2862590",
+              "title": "Je ne veux pas dormir toute seule",
+              "content": {
+                "dateAdded": "2020-06-02T03:31:22+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_apman2hb/v/2/ev/1/flavorId/0_82lk22bp/fileName/sleepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 96,
+                "validityPeriodEnd": "6000-06-01T03:33:55+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/x1cbhS0/I-Don-039-t-Want-to-Sleep-Alone.jpg",
+              "episodeNumber": 16,
+              "releaseDate": "2016-12-25",
+              "shortDescription": "(S4 | Chansons) : Chante avec Siwa tes parents chanteront avec Dawa!",
+              "longDescription": "Chante avec Siwa tes parents chanteront avec Dawa!"
             }
           ],
           "thumbnail": ""
@@ -2844,8 +2914,8 @@
       ],
       "thumbnail": "https://i.ibb.co/fNJ2n9X/Tyding-Up.jpg",
       "releaseDate": "2008-08-15",
-      "shortDescription": "Channel supports both Boowa and Kwala EN and  Boowa et kwala FR",
-      "longDescription": "Channel supports both English and Français versions of Boowa and Kwala,  Photo Gallery presented in Power Point. Each separated by season.",
+      "shortDescription": "(1) Songs, (2) Videos,  (3) Photo Gallery, (4) Chansons, (5) Vidéos",
+      "longDescription": "View Season from English to French",
       "tags": [
         "series"
       ]
