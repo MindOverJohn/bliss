@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-02T02:19:27+00:00",
+  "lastUpdated": "2020-06-03T03:19:55+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3072,6 +3072,69 @@
               "releaseDate": "2008-06-02",
               "shortDescription": "(S4 | Chansons) : Même quand on ne voit pas bien, on peut jouer de la musique et chanter !",
               "longDescription": "Même quand on ne voit pas bien, on peut jouer de la musique et chanter !"
+            },
+            {
+              "id": "249a680dc8f94731a03507d96d6e003c",
+              "title": "Je ne suis pas peur de rien",
+              "content": {
+                "dateAdded": "2020-06-03T02:51:20+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_lltnwjm0/v/2/ev/1/flavorId/0_kln0hlf4/fileName/scaredSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74,
+                "validityPeriodEnd": "6000-06-02T02:54:38+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/jJjDNVf/I-039-m-not-scared-about-anything.jpg",
+              "episodeNumber": 21,
+              "releaseDate": "2008-12-23",
+              "shortDescription": "Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera ! Boowa et Kwala avec Siwa chante de ne pas avoir peur",
+              "longDescription": "Boowa et Kwala avec Siwa chante de ne pas avoir peur"
+            },
+            {
+              "id": "f29070bdf3954c9b8849a75fae27a8a9",
+              "title": "Si tu veux que les oiseaux s'en aillent",
+              "content": {
+                "dateAdded": "2020-06-03T03:00:36+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_d9pm9nh1/v/2/ev/1/flavorId/0_9d821ut4/fileName/scarecrowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 93,
+                "validityPeriodEnd": "6000-06-02T03:03:30+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/zs4YvxV/The-Scare-Crow-Song.jpg",
+              "episodeNumber": 22,
+              "releaseDate": "2008-12-23",
+              "shortDescription": "(S4 | Chansons) : Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !",
+              "longDescription": "Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !"
+            },
+            {
+              "id": "c1c01d32fdf84875858aca958915deea",
+              "title": "Sucré-Salé",
+              "content": {
+                "dateAdded": "2020-06-03T03:06:38+00:00",
+                "videos": [
+                  {
+                    "url": "http://www.uptoten.com/tablets/assets/songs/videos/fr/mp4/saltySong.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 94,
+                "validityPeriodEnd": "6000-06-02T03:20:04+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/mBHgj5B/Salt-is-salty-and-sugar-is-sweet.jpg",
+              "episodeNumber": 23,
+              "releaseDate": "2000-12-23",
+              "shortDescription": "(S4 | Chansons) : Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !",
+              "longDescription": "Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !"
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
