@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-04T10:17:29+00:00",
+  "lastUpdated": "2020-06-06T06:47:10+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3155,6 +3155,26 @@
               "releaseDate": "2020-06-04",
               "shortDescription": "(S5 | CHANSONS) : Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux....",
               "longDescription": "Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux...."
+            },
+            {
+              "id": "1938727128754b959f1c0577fb10d538",
+              "title": "Musique en LA pour l'amitié",
+              "content": {
+                "dateAdded": "2020-06-06T06:42:47+00:00",
+                "videos": [
+                  {
+                    "url": "http://www.uptoten.com/tablets/assets/songs/videos/fr/mp4/musicSong.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 69
+              },
+              "thumbnail": "https://i.ibb.co/g7pwhvj/Music-for-Everyone.jpg",
+              "episodeNumber": 25,
+              "releaseDate": "2008-12-23",
+              "shortDescription": "(S4 | CHANSONS) : Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !",
+              "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
