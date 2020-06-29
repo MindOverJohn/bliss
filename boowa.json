@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-06T07:23:14+00:00",
+  "lastUpdated": "2020-06-29T09:36:53+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3143,7 +3143,7 @@
                 "dateAdded": "2020-06-04T02:09:03+00:00",
                 "videos": [
                   {
-                    "url": "http://www.uptoten.com/tablets/assets/songs/videos/fr/mp4/playBallSong.MP4",
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3gll7fgw/v/2/ev/1/flavorId/0_e4ojp5by/fileName/Lance_la_balle_(Source).MP4/forceproxy/true/name/a.MP4",
                     "quality": "HD",
                     "videoType": "MP4"
                   }
@@ -3163,7 +3163,7 @@
                 "dateAdded": "2020-06-06T06:42:47+00:00",
                 "videos": [
                   {
-                    "url": "http://www.uptoten.com/tablets/assets/songs/videos/fr/mp4/musicSong.MP4",
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fdzqkzyj/v/2/ev/1/flavorId/0_6jxir1fg/fileName/musicSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
                     "quality": "HD",
                     "videoType": "MP4"
                   }
@@ -3174,6 +3174,26 @@
               "episodeNumber": 25,
               "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) : Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !",
+              "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
+            },
+            {
+              "id": "0aa3ad1a4c6a496a8c70d3fe18cc8621",
+              "title": "Combien de champignons ?",
+              "content": {
+                "dateAdded": "2020-06-29T09:33:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_agl4vdko/v/2/ev/1/flavorId/0_xk26m3ni/fileName/mushroomSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 62
+              },
+              "thumbnail": "https://i.ibb.co/gwRK5W2/howmany-mushrooms.jpg",
+              "episodeNumber": 26,
+              "releaseDate": "2016-12-23",
+              "shortDescription": "(S4 | CHANSONS) : Combien de champignons vois-tu ? Peux-tu les compter en chantant ?",
               "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
             }
           ],
