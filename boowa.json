@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-29T09:36:53+00:00",
+  "lastUpdated": "2020-07-03T01:02:21+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3148,7 +3148,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 69
+                "duration": 69,
+                "validityPeriodEnd": "6000-07-02T00:47:01+00:00"
               },
               "thumbnail": "https://i.ibb.co/jwKjqDS/Playball-Song.jpg",
               "episodeNumber": 24,
@@ -3168,7 +3169,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 69
+                "duration": 69,
+                "validityPeriodEnd": "6000-07-02T00:47:08+00:00"
               },
               "thumbnail": "https://i.ibb.co/g7pwhvj/Music-for-Everyone.jpg",
               "episodeNumber": 25,
@@ -3195,6 +3197,68 @@
               "releaseDate": "2016-12-23",
               "shortDescription": "(S4 | CHANSONS) : Combien de champignons vois-tu ? Peux-tu les compter en chantant ?",
               "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
+            },
+            {
+              "id": "43fa6cbc9ddb4229a0a21d8ed14f1e1f",
+              "title": "Au revoir on déménage",
+              "content": {
+                "dateAdded": "2020-06-29T11:12:51+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_79rq2945/v/2/ev/1/flavorId/0_3t4g6703/fileName/movingHouseSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 75,
+                "validityPeriodEnd": "6000-07-02T00:47:33+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/rpJgJh7/Bye-Bye-We-re-Moving-House.jpg",
+              "episodeNumber": 27,
+              "releaseDate": "2016-12-23",
+              "shortDescription": "(S4 | CHANSONS) :  Mais nous serons toujours près de toi dans nos coeurs ;o)",
+              "longDescription": "Mais nous serons toujours près de toi dans nos coeurs ;o)"
+            },
+            {
+              "id": "149be41251a944518215bef8e524c6d9",
+              "title": "Perdu ou caché",
+              "content": {
+                "dateAdded": "2020-07-03T00:43:19+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3rhj0khl/v/2/ev/1/flavorId/0_3007gp8o/fileName/lostfoundSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 82,
+                "validityPeriodEnd": "6000-07-02T00:47:40+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
+              "episodeNumber": 28,
+              "releaseDate": "2016-12-23",
+              "shortDescription": "(S4 | CHANSONS) :   Est-ce que le trésor est perdu... ou tout simplement caché ?",
+              "longDescription": "Est-ce que le trésor est perdu... ou tout simplement caché ?"
+            },
+            {
+              "id": "6a9ccc1f88de4b7f88f717f4138b8a6c",
+              "title": "Bisou, câlin et doudou",
+              "content": {
+                "dateAdded": "2020-07-03T00:50:32+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_pacwi0ax/v/2/ev/1/flavorId/0_6r5w5p7w/fileName/kissCuddleSong_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "validityPeriodEnd": "6222-07-02T00:56:29+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
+              "episodeNumber": 29,
+              "releaseDate": "2020-07-03",
+              "shortDescription": "(S4 | CHANSONS) :  Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père.",
+              "longDescription": "Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père."
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
