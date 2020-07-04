@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-03T01:50:50+00:00",
+  "lastUpdated": "2020-07-04T10:11:17+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3153,7 +3153,7 @@
               },
               "thumbnail": "https://i.ibb.co/jwKjqDS/Playball-Song.jpg",
               "episodeNumber": 24,
-              "releaseDate": "2020-06-04",
+              "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) : Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux....",
               "longDescription": "Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux...."
             },
@@ -3190,11 +3190,12 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 62
+                "duration": 62,
+                "validityPeriodEnd": "6000-07-04T09:43:16+00:00"
               },
               "thumbnail": "https://i.ibb.co/gwRK5W2/howmany-mushrooms.jpg",
               "episodeNumber": 26,
-              "releaseDate": "2016-12-23",
+              "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) : Combien de champignons vois-tu ? Peux-tu les compter en chantant ?",
               "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
             },
@@ -3215,7 +3216,7 @@
               },
               "thumbnail": "https://i.ibb.co/rpJgJh7/Bye-Bye-We-re-Moving-House.jpg",
               "episodeNumber": 27,
-              "releaseDate": "2016-12-23",
+              "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) :  Mais nous serons toujours près de toi dans nos coeurs ;o)",
               "longDescription": "Mais nous serons toujours près de toi dans nos coeurs ;o)"
             },
@@ -3236,7 +3237,7 @@
               },
               "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
               "episodeNumber": 28,
-              "releaseDate": "2016-12-23",
+              "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) :   Est-ce que le trésor est perdu... ou tout simplement caché ?",
               "longDescription": "Est-ce que le trésor est perdu... ou tout simplement caché ?"
             },
@@ -3253,13 +3254,76 @@
                   }
                 ],
                 "duration": 96,
-                "validityPeriodEnd": "6222-07-02T00:56:29+00:00"
+                "validityPeriodEnd": "6000-07-02T09:43:03+00:00"
               },
               "thumbnail": "https://i.ibb.co/8Mqz9Wq/Kiss-and-a-cuddle.jpg",
               "episodeNumber": 29,
-              "releaseDate": "2020-07-03",
+              "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) :  Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père.",
               "longDescription": "Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père."
+            },
+            {
+              "id": "075041cd52ef43cba95e401df23cb31e",
+              "title": "Je parle aux animaux",
+              "content": {
+                "dateAdded": "2020-07-04T09:44:26+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_2n48fg6t/v/2/ev/1/flavorId/0_mgocuy8q/fileName/justSaySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 58,
+                "validityPeriodEnd": "6000-07-04T09:55:54+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/sy8Sr8m/Say-Hello-to-the-Animals.jpg",
+              "episodeNumber": 30,
+              "releaseDate": "2008-12-22",
+              "shortDescription": "(S4 | CHANSONS) : Comment dit-on bonjour à un chaton ?",
+              "longDescription": "Comment dit-on bonjour à un chaton ?"
+            },
+            {
+              "id": "e20b640964bb4470853544ac060a994e",
+              "title": "Gambader dans la jungle",
+              "content": {
+                "dateAdded": "2020-07-04T09:57:32+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_e6yebqbv/v/2/ev/1/flavorId/0_01cnvmtt/fileName/junglesong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 170,
+                "validityPeriodEnd": "6000-07-04T10:01:14+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/vwf1jWz/The-jungle-creep.jpg",
+              "episodeNumber": 31,
+              "releaseDate": "2008-12-22",
+              "shortDescription": "(S4 | CHANSONS) : Boowa et Kwala chantent sur un air de contrebasse.",
+              "longDescription": "Boowa et Kwala chantent sur un air de contrebasse."
+            },
+            {
+              "id": "cde08631d61244f78e7c70b5aaab3c84",
+              "title": "Hourra ! Encore une belle journée !",
+              "content": {
+                "dateAdded": "2020-07-04T10:02:18+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_7pmqd4c2/v/2/ev/1/flavorId/0_o4r8mswn/fileName/hooraySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 43,
+                "validityPeriodEnd": "6000-07-04T10:10:13+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/ZBkSmcZ/Hooray-Another-sunny-day.jpg",
+              "episodeNumber": 32,
+              "releaseDate": "2008-12-23",
+              "shortDescription": "(S4 | CHANSONS) : C'est une belle journée... Pour chanter avec Boowa, Kwala et Dawa !!!",
+              "longDescription": "C'est une belle journée... Pour chanter avec Boowa, Kwala et Dawa !!!"
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
