@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-04T10:11:17+00:00",
+  "lastUpdated": "2020-07-04T10:21:54+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3324,6 +3324,48 @@
               "releaseDate": "2008-12-23",
               "shortDescription": "(S4 | CHANSONS) : C'est une belle journée... Pour chanter avec Boowa, Kwala et Dawa !!!",
               "longDescription": "C'est une belle journée... Pour chanter avec Boowa, Kwala et Dawa !!!"
+            },
+            {
+              "id": "dbadb28484004ca5911d1dd7f3f7e049",
+              "title": "Bonjour bonjour",
+              "content": {
+                "dateAdded": "2020-07-04T10:12:08+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_2bm13o16/v/2/ev/1/flavorId/0_cd2be3u5/fileName/helloSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 81,
+                "validityPeriodEnd": "6000-07-04T10:17:09+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/ZzxKwQS/Hello-hello.jpg",
+              "episodeNumber": 33,
+              "releaseDate": "2008-07-04",
+              "shortDescription": "(S4 | CHANSONS) : Bonjour bonjour... Bonjour coucou salut ! Chante avec Boowa, Kwala, Siwa... Et les marionnettes !",
+              "longDescription": "Bonjour bonjour... Bonjour coucou salut ! Chante avec Boowa, Kwala, Siwa... Et les marionnettes !"
+            },
+            {
+              "id": "df0ed8772b2f49b5964fb3b9209a38e1",
+              "title": "T'es heureux et tu le sais ?",
+              "content": {
+                "dateAdded": "2020-07-04T10:19:29+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_8wl58t7a/v/2/ev/1/flavorId/0_62kln6zy/fileName/happy_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 96,
+                "validityPeriodEnd": "6000-07-04T10:21:50+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/wSt3Rb5/If-you-are-happy.jpg",
+              "episodeNumber": 34,
+              "releaseDate": "2008-07-04",
+              "shortDescription": "(S4 | CHANSONS) : Une fameuse chanson interprétée par Boowa et Kwala.",
+              "longDescription": "Une fameuse chanson interprétée par Boowa et Kwala."
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
