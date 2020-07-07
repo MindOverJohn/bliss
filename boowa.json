@@ -3585,7 +3585,8 @@
           "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg"
         }
       ],
-      "genres": [children],
+      "genres": [
+        "children"
       "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg",
       "releaseDate": "2016-12-14",
       "shortDescription": "Watch Marcelino and all of his friends in full episodes",
