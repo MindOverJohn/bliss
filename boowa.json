@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2020-07-04T10:21:54+00:00",
+  "lastUpdated": "2020-07-06T10:27:43+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
     {
       "id": "950609787035",
-      "title": "Boowa and Kwala  | Boowa et kwala",
+      "title": "Boowa and Kwala",
       "seasons": [
         {
           "seasonNumber": 1,
@@ -2477,770 +2477,8 @@
           "thumbnail": "https://i.ibb.co/2j5RbVC/Six-Green-Frogs.jpg"
         },
         {
-          "seasonNumber": 3,
-          "episodes": [
-            {
-              "id": "9baf8e61f3de4278aef85e6cc667176f",
-              "title": "Current Photos",
-              "content": {
-                "dateAdded": "2020-05-26T00:25:15+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_zzkneses/v/2/ev/3/flavorId/0_1i01bqw9/fileName/000530_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 120,
-                "validityPeriodEnd": "6000-06-02T04:16:25+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg",
-              "episodeNumber": 1,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) :  PowerPoint Conversion from Current Photos,",
-              "longDescription": "PowerPoint Conversion from Current Photos,"
-            },
-            {
-              "id": "a4c3affc3abd4987bebcb3f6e031cb8b",
-              "title": "Current Photos 2",
-              "content": {
-                "dateAdded": "2020-05-26T00:29:45+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_it9ug2a9/v/2/ev/4/flavorId/0_tihm3jus/fileName/230222_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 56,
-                "validityPeriodEnd": "6000-06-02T04:16:42+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/wWJ8NKZ/Current-Photots2.jpg",
-              "episodeNumber": 2,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Current Photos 2, To add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Current Photos 2, To add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "b58c531f78174f80a5cc9dce0afe60fb",
-              "title": "Drawing Gallery",
-              "content": {
-                "dateAdded": "2020-05-26T00:31:14+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_zfhnr3cu/v/2/ev/4/flavorId/0_j7xiokvz/fileName/Drawing_Gallery_2015-2014_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 78,
-                "validityPeriodEnd": "6000-06-02T04:17:12+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/yN1Y7LD/Drawing-Gallery-2015-2014.jpg",
-              "episodeNumber": 3,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Drawing Gallery 2015-2014, To add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Drawing Gallery 2015-2014, To add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "0f42738eec0a431b8e1f8c3d11cb8d97",
-              "title": "Gallery 1",
-              "content": {
-                "dateAdded": "2020-05-26T00:32:46+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_znwo7dcc/v/2/ev/4/flavorId/0_c1xfsfnt/fileName/Gallery_1_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 120,
-                "validityPeriodEnd": "6000-06-02T04:17:35+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/ZSqQ7k7/Gallery-1.jpg",
-              "episodeNumber": 4,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) :  PowerPoint Conversion from Gallery 1, to add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Gallery 1, to add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "9b75a4cb0a5c47d1b5e46cd96f7ed304",
-              "title": "Gallery 2",
-              "content": {
-                "dateAdded": "2020-05-26T00:34:17+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4k1z5pi1/v/2/ev/3/flavorId/0_9j9mlpug/fileName/Gallery_2_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 80,
-                "validityPeriodEnd": "6000-06-02T04:18:13+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/yBwn55r/Gallery-2.jpg",
-              "episodeNumber": 5,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Gallery 2, To add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Gallery 2, To add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "5eb92df6dae04e69a3c2663e87766a4a",
-              "title": "Gallery 3",
-              "content": {
-                "dateAdded": "2020-05-26T00:39:01+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_9kz0v0f3/v/2/ev/3/flavorId/0_ok62bxug/fileName/Gallery_3_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 99,
-                "validityPeriodEnd": "6000-06-02T04:18:58+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/Q97K4Bm/Gallery-3.jpg",
-              "episodeNumber": 6,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Gallery 3, To add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Gallery 3, To add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "ce6fdc71aaa14c6e8c77f106635f7ac4",
-              "title": "Gallery 4",
-              "content": {
-                "dateAdded": "2020-05-26T00:41:19+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_my98oi2c/v/2/ev/4/flavorId/0_6m63oz8e/fileName/Gallery_4_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 93,
-                "validityPeriodEnd": "6000-06-02T04:19:52+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/kgRg7ns/Gallery-4.jpg",
-              "episodeNumber": 7,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Gallery 4, to add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Gallery 4, to add your picture send it to Uptoten@uptoten.com"
-            },
-            {
-              "id": "96bdc2bb3cec4bc0ab4049e486d7df38",
-              "title": "Gallery 5",
-              "content": {
-                "dateAdded": "2020-05-26T00:42:58+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_59ir6xqu/v/2/ev/4/flavorId/0_z4sx48xc/fileName/Gallery_5_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 87,
-                "validityPeriodEnd": "6000-06-02T04:20:15+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/Sw9dytS/Gallery-5.jpg",
-              "episodeNumber": 8,
-              "releaseDate": "2008-12-14",
-              "shortDescription": "(S3 | GALLERY) : PowerPoint Conversion from Gallery 5, To add your picture send it to Uptoten@uptoten.com",
-              "longDescription": "PowerPoint Conversion from Gallery 5, To add your picture send it to Uptoten@uptoten.com"
-            }
-          ],
-          "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg"
-        },
-        {
           "seasonNumber": 4,
           "episodes": [
-            {
-              "id": "2da09efbcf584cbb9f34d6bcbb98060f",
-              "title": "J'aime la neige",
-              "content": {
-                "dateAdded": "2020-05-27T08:00:26+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_46dkevt7/v/2/ev/1/flavorId/0_b8ejlmzv/fileName/snowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 61,
-                "validityPeriodEnd": "6000-05-27T08:05:46+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
-              "episodeNumber": 1,
-              "releaseDate": "2008-05-27",
-              "shortDescription": "(S4 | Chansons) : Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent...",
-              "longDescription": "(S4 | Chansons) : Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent..."
-            },
-            {
-              "id": "da54fd2e69a445ea89fd4608d2deb62e",
-              "title": "Dans ma potion",
-              "content": {
-                "dateAdded": "2020-05-31T23:50:42+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_aol6273r/v/2/ev/1/flavorId/0_ezoxx21h/fileName/potSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 72,
-                "validityPeriodEnd": "6000-05-31T00:01:43+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/wN0B4hv/What-have-you-got-in-your-pot.jpg",
-              "episodeNumber": 2,
-              "releaseDate": "2008-10-01",
-              "shortDescription": "(S4 | Chansons) : Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien...",
-              "longDescription": "(S4 | Chansons) : Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien..."
-            },
-            {
-              "id": "f48eaff4c7e144519a8daa3b695f337a",
-              "title": "Des bonbons ou des bâtons",
-              "content": {
-                "dateAdded": "2020-06-01T00:03:47+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_14s68pmx/v/2/ev/1/flavorId/0_009cyi2u/fileName/tricktreat_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 34,
-                "validityPeriodEnd": "6000-05-31T00:07:56+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/D1W0Hcp/Trick-or-Treat.jpg",
-              "episodeNumber": 3,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) :  Boowa et Kwala chantent Des bonbons ou des bâtons",
-              "longDescription": "(S4 | Chansons) :  Boowa et Kwala chantent Des bonbons ou des bâtons"
-            },
-            {
-              "id": "91b37a0b93884866a8545d937041ffd9",
-              "title": "La Choco Chanson",
-              "content": {
-                "dateAdded": "2020-06-01T00:10:51+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_o1vail86/v/2/ev/1/flavorId/0_fo84ojuo/fileName/choccoSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 72,
-                "validityPeriodEnd": "6000-05-31T00:15:38+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/vZRVsMT/The-Chocco-Song.jpg",
-              "episodeNumber": 4,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) :  Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?",
-              "longDescription": "(S4 | Chansons) :  Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?"
-            },
-            {
-              "id": "11b2a0e1154a48289b13324ce9077274",
-              "title": "La danse des bouées",
-              "content": {
-                "dateAdded": "2020-06-01T00:53:13+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_8rpc0sme/v/2/ev/1/flavorId/0_u986uj4m/fileName/rubberRingSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 65,
-                "validityPeriodEnd": "6000-05-31T01:06:38+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/w0MpvFy/The-twirly-dance-game.jpg",
-              "episodeNumber": 5,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) :  As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !",
-              "longDescription": "(S4 | Chansons) :  As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !"
-            },
-            {
-              "id": "8c9cc5856ccc4e308d732f590565f06f",
-              "title": "J'aime courir",
-              "content": {
-                "dateAdded": "2020-06-01T00:59:20+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_f2tegu2w/v/2/ev/1/flavorId/0_usuieln9/fileName/runSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 62,
-                "validityPeriodEnd": "6000-05-31T01:05:40+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg",
-              "episodeNumber": 6,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !",
-              "longDescription": "(S4 | Chansons) :  Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !"
-            },
-            {
-              "id": "35cbb1e1028e4951880009a1a6801838",
-              "title": "Joyeux anniversaire Kwala",
-              "content": {
-                "dateAdded": "2020-06-01T11:36:37+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_0xpbr2ax/v/2/ev/1/flavorId/0_5v0bg0ff/fileName/birthdaySongKwala_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 42,
-                "validityPeriodEnd": "6000-06-01T03:20:25+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
-              "episodeNumber": 7,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !",
-              "longDescription": "Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !"
-            },
-            {
-              "id": "04e4ef3bf6314aa5a1c1eb1178939766",
-              "title": "Joyeux anniversaire... Boowa !",
-              "content": {
-                "dateAdded": "2020-06-01T11:45:53+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_usez9bbt/v/2/ev/1/flavorId/0_nsicvm4f/fileName/birthdaysong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 22,
-                "validityPeriodEnd": "6000-06-01T03:20:32+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
-              "episodeNumber": 8,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Kwala chante joyeux anniversaire à son ami Boowa.",
-              "longDescription": "Kwala chante joyeux anniversaire à son ami Boowa."
-            },
-            {
-              "id": "cc89f785c7784e9eba70955834acf4df",
-              "title": "Peux-tu faire pareil que moi",
-              "content": {
-                "dateAdded": "2020-06-01T12:13:43+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_hwdw8z6h/v/2/ev/1/flavorId/0_pzagchzx/fileName/wriggleSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 68,
-                "validityPeriodEnd": "6000-06-01T03:20:45+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/NycMvds/thewigglesong.jpg",
-              "episodeNumber": 9,
-              "releaseDate": "2008-06-02",
-              "shortDescription": "(S4 | Chansons) : Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?",
-              "longDescription": "Peux-tu faire pareil que nous en chantant? Peux-tu danser et te tordre jusqu'à faire des noeuds?"
-            },
-            {
-              "id": "b2d87028895c49c9a3aacc40587575b3",
-              "title": "J'attends",
-              "content": {
-                "dateAdded": "2020-06-01T12:17:57+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_h3fc4gxj/v/2/ev/1/flavorId/0_zd1sbify/fileName/waitingSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 59,
-                "validityPeriodEnd": "6000-06-01T03:20:52+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
-              "episodeNumber": 10,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !",
-              "longDescription": "Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !"
-            },
-            {
-              "id": "4421ada4d0114439be0e883761555c81",
-              "title": "Du bidon",
-              "content": {
-                "dateAdded": "2020-06-01T12:21:42+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3xxubvic/v/2/ev/1/flavorId/0_r6ygijup/fileName/tumSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 74,
-                "validityPeriodEnd": "6000-06-01T03:20:59+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
-              "episodeNumber": 11,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala.",
-              "longDescription": "Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala."
-            },
-            {
-              "id": "cd7c652038a24563a03db242d37c4018",
-              "title": "Le tic tac doux",
-              "content": {
-                "dateAdded": "2020-06-01T12:30:13+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_1mnxazvm/v/2/ev/1/flavorId/0_esmuj94d/fileName/tickTockSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 101,
-                "validityPeriodEnd": "6000-06-01T03:21:11+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
-              "episodeNumber": 12,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!",
-              "longDescription": "Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!"
-            },
-            {
-              "id": "bc688064df4947b5ae1ac941065b155d",
-              "title": "My Favorite Peluche",
-              "content": {
-                "dateAdded": "2020-06-01T12:34:46+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fto8umli/v/2/ev/1/flavorId/0_5yy4qrjw/fileName/teddySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 78,
-                "validityPeriodEnd": "6000-06-01T03:21:18+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
-              "episodeNumber": 13,
-              "releaseDate": "2008-06-01",
-              "shortDescription": "(S4 | Chansons) : Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?",
-              "longDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?"
-            },
-            {
-              "id": "7aca8b48c2ca47a0ad13893f6f03ba45",
-              "title": "Super-héros de la nature",
-              "content": {
-                "dateAdded": "2020-06-02T03:17:48+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_xfapkjpl/v/2/ev/1/flavorId/0_e562eobz/fileName/superSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 78,
-                "validityPeriodEnd": "6000-06-01T03:21:25+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/tKmYLXG/Superheroes-Save-The-World.jpg",
-              "episodeNumber": 14,
-              "releaseDate": "2008-12-25",
-              "shortDescription": "(S4 | Chansons) : Pour devenir des super-héros... Il suffit de ramasser quelques déchets !",
-              "longDescription": "Pour devenir des super-héros... Il suffit de ramasser quelques déchets !"
-            },
-            {
-              "id": "f966f2f0e37944f4923a62d33f769e79",
-              "title": "Tête, épaules, genoux, doigts de pieds",
-              "content": {
-                "dateAdded": "2020-06-02T03:25:16+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_92klgylg/v/2/ev/1/flavorId/0_wscpr72m/fileName/songdance_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 113,
-                "validityPeriodEnd": "6000-06-01T03:31:57+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/vJMmNs6/Heads-and-shoulders-knees-and-toes.jpg",
-              "episodeNumber": 15,
-              "releaseDate": "2008-12-25",
-              "shortDescription": "(S4 | Chansons) : Boowa et Kwala chantent Guili Guili.",
-              "longDescription": "Boowa et Kwala chantent Guili Guili."
-            },
-            {
-              "id": "3d7efd4160324a189a323531d2862590",
-              "title": "Je ne veux pas dormir toute seule",
-              "content": {
-                "dateAdded": "2020-06-02T03:31:22+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_apman2hb/v/2/ev/1/flavorId/0_82lk22bp/fileName/sleepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 96,
-                "validityPeriodEnd": "6000-06-01T03:33:55+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/x1cbhS0/I-Don-039-t-Want-to-Sleep-Alone.jpg",
-              "episodeNumber": 16,
-              "releaseDate": "2008-12-25",
-              "shortDescription": "(S4 | Chansons) : Chante avec Siwa tes parents chanteront avec Dawa!",
-              "longDescription": "Chante avec Siwa tes parents chanteront avec Dawa!"
-            },
-            {
-              "id": "df8fde53fcdc4adfbd0b7709f4ec5055",
-              "title": "Hop Hop Plouf",
-              "content": {
-                "dateAdded": "2020-06-02T13:57:10+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_v4ymojhu/v/2/ev/1/flavorId/0_h4zf4fis/fileName/skipStoneSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 58,
-                "validityPeriodEnd": "6000-06-02T14:02:00+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/HX3598w/Skip-Skip-Plop.jpg",
-              "episodeNumber": 17,
-              "releaseDate": "2008-12-02",
-              "shortDescription": "(S4 | Chansons) : Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !",
-              "longDescription": "Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !"
-            },
-            {
-              "id": "4793d58c685d41ba9f4c743e512fbef3",
-              "title": "J'aime chanter (sous la douche)",
-              "content": {
-                "dateAdded": "2020-06-02T14:04:27+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_78sm6t2j/v/2/ev/1/flavorId/0_i68ja2ue/fileName/showerSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 75,
-                "validityPeriodEnd": "6000-06-02T14:06:44+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/Tcxrh45/Singing-in-the-Shower.jpg",
-              "episodeNumber": 18,
-              "releaseDate": "2008-06-02",
-              "shortDescription": "(S4 | Chansons) : Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !",
-              "longDescription": "Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !"
-            },
-            {
-              "id": "118b03d9d0714871a8ff58002a0d6e35",
-              "title": "Combien de moutons",
-              "content": {
-                "dateAdded": "2020-06-02T14:09:10+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_9818zt4b/v/2/ev/1/flavorId/0_0bk53hjz/fileName/sheepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 59,
-                "validityPeriodEnd": "6000-06-02T14:11:10+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/YXND2Ww/How-many-sheep.jpg",
-              "episodeNumber": 19,
-              "releaseDate": "2008-06-02",
-              "shortDescription": "(S4 | Chansons) : Combien de moutons peut-on sauter d'un seul coup ?",
-              "longDescription": "Combien de moutons peut-on sauter d'un seul coup ?"
-            },
-            {
-              "id": "c0fba1b8b0cc44bd9b637f2813370541",
-              "title": "Je n'vois pas (devant moi)",
-              "content": {
-                "dateAdded": "2020-06-02T14:15:48+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6iwr8oni/v/2/ev/1/flavorId/0_3n7hmjj7/fileName/seeSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 68,
-                "validityPeriodEnd": "6000-06-02T14:17:43+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/BVy2W1p/I-Can-039-t-See.jpg",
-              "episodeNumber": 20,
-              "releaseDate": "2008-06-02",
-              "shortDescription": "(S4 | Chansons) : Même quand on ne voit pas bien, on peut jouer de la musique et chanter !",
-              "longDescription": "Même quand on ne voit pas bien, on peut jouer de la musique et chanter !"
-            },
-            {
-              "id": "249a680dc8f94731a03507d96d6e003c",
-              "title": "Je ne suis pas peur de rien",
-              "content": {
-                "dateAdded": "2020-06-03T02:51:20+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_lltnwjm0/v/2/ev/1/flavorId/0_kln0hlf4/fileName/scaredSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 74,
-                "validityPeriodEnd": "6000-06-02T02:54:38+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/jJjDNVf/I-039-m-not-scared-about-anything.jpg",
-              "episodeNumber": 21,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | Chansons) : Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera ! Boowa et Kwala avec Siwa chante de ne pas avoir peur",
-              "longDescription": "Boowa et Kwala avec Siwa chante de ne pas avoir peur"
-            },
-            {
-              "id": "f29070bdf3954c9b8849a75fae27a8a9",
-              "title": "Si tu veux que les oiseaux s'en aillent",
-              "content": {
-                "dateAdded": "2020-06-03T03:00:36+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_d9pm9nh1/v/2/ev/1/flavorId/0_9d821ut4/fileName/scarecrowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 93,
-                "validityPeriodEnd": "6000-06-02T03:03:30+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/zs4YvxV/The-Scare-Crow-Song.jpg",
-              "episodeNumber": 22,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | Chansons) : Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !",
-              "longDescription": "Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !"
-            },
-            {
-              "id": "c1c01d32fdf84875858aca958915deea",
-              "title": "Sucré-Salé",
-              "content": {
-                "dateAdded": "2020-06-03T03:06:38+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_2kd3zhke/v/2/ev/1/flavorId/0_af2jtmnd/fileName/saltySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 94,
-                "validityPeriodEnd": "6000-06-02T03:20:04+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/mBHgj5B/Salt-is-salty-and-sugar-is-sweet.jpg",
-              "episodeNumber": 23,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | Chansons) : Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !",
-              "longDescription": "Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !"
-            },
-            {
-              "id": "0101d0a5cd16486294d95e740295bf34",
-              "title": "Lance la balle",
-              "content": {
-                "dateAdded": "2020-06-04T02:09:03+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3gll7fgw/v/2/ev/1/flavorId/0_e4ojp5by/fileName/Lance_la_balle_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 69,
-                "validityPeriodEnd": "6000-07-02T00:47:01+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/jwKjqDS/Playball-Song.jpg",
-              "episodeNumber": 24,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | CHANSONS) : Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux....",
-              "longDescription": "Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux...."
-            },
-            {
-              "id": "1938727128754b959f1c0577fb10d538",
-              "title": "Musique en LA pour l'amitié",
-              "content": {
-                "dateAdded": "2020-06-06T06:42:47+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fdzqkzyj/v/2/ev/1/flavorId/0_6jxir1fg/fileName/musicSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 69,
-                "validityPeriodEnd": "6000-07-02T00:47:08+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/g7pwhvj/Music-for-Everyone.jpg",
-              "episodeNumber": 25,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | CHANSONS) : Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !",
-              "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
-            },
-            {
-              "id": "0aa3ad1a4c6a496a8c70d3fe18cc8621",
-              "title": "Combien de champignons ?",
-              "content": {
-                "dateAdded": "2020-06-29T09:33:13+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_agl4vdko/v/2/ev/1/flavorId/0_xk26m3ni/fileName/mushroomSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 62,
-                "validityPeriodEnd": "6000-07-04T09:43:16+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/gwRK5W2/howmany-mushrooms.jpg",
-              "episodeNumber": 26,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | CHANSONS) : Combien de champignons vois-tu ? Peux-tu les compter en chantant ?",
-              "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
-            },
-            {
-              "id": "43fa6cbc9ddb4229a0a21d8ed14f1e1f",
-              "title": "Au revoir on déménage",
-              "content": {
-                "dateAdded": "2020-06-29T11:12:51+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_79rq2945/v/2/ev/1/flavorId/0_3t4g6703/fileName/movingHouseSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 75,
-                "validityPeriodEnd": "6000-07-02T00:47:33+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/rpJgJh7/Bye-Bye-We-re-Moving-House.jpg",
-              "episodeNumber": 27,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | CHANSONS) :  Mais nous serons toujours près de toi dans nos coeurs ;o)",
-              "longDescription": "Mais nous serons toujours près de toi dans nos coeurs ;o)"
-            },
-            {
-              "id": "149be41251a944518215bef8e524c6d9",
-              "title": "Perdu ou caché",
-              "content": {
-                "dateAdded": "2020-07-03T00:43:19+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3rhj0khl/v/2/ev/1/flavorId/0_3007gp8o/fileName/lostfoundSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 82,
-                "validityPeriodEnd": "6000-07-02T00:47:40+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
-              "episodeNumber": 28,
-              "releaseDate": "2008-12-23",
-              "shortDescription": "(S4 | CHANSONS) :   Est-ce que le trésor est perdu... ou tout simplement caché ?",
-              "longDescription": "Est-ce que le trésor est perdu... ou tout simplement caché ?"
-            },
             {
               "id": "6a9ccc1f88de4b7f88f717f4138b8a6c",
               "title": "Bisou, câlin et doudou",
@@ -3403,24 +2641,823 @@
       ],
       "thumbnail": "https://i.ibb.co/fNJ2n9X/Tyding-Up.jpg",
       "releaseDate": "2008-08-15",
-      "shortDescription": "(1) Songs, (2) Videos,  (3) Photo Gallery, (4) Chansons, (5) Vidéos",
-      "longDescription": "View Season from English to French",
+      "shortDescription": "Explore with  Boowa & Kwala and then Sing Along",
+      "longDescription": "English Songs and Videos presented by Uptoten.com",
       "tags": [
         "series"
       ]
     },
     {
       "id": "3ec47b8b49fd4ad78bd832a7879ffdb3",
+      "title": "Uptoten.com Photo Gallery",
+      "seasons": [
+        {
+          "episodes": [
+            {
+              "id": "14fa32c08162421ebce296b2655cbbdc",
+              "title": "Current Photos",
+              "content": {
+                "dateAdded": "2020-07-05T09:41:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_zzkneses/v/2/ev/3/flavorId/0_1i01bqw9/fileName/000530_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 120,
+                "validityPeriodEnd": "4000-07-05T09:46:04+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/cxZzSnH/Current-Photots.jpg",
+              "episodeNumber": 1,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Current Photos, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Current Photos,"
+            },
+            {
+              "id": "0b17b072d4964e54bf86a7577b945d6d",
+              "title": "Current Photos 2",
+              "content": {
+                "dateAdded": "2020-07-05T09:49:02+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_it9ug2a9/v/2/ev/4/flavorId/0_tihm3jus/fileName/230222_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 56,
+                "validityPeriodEnd": "4000-07-05T09:52:49+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/wWJ8NKZ/Current-Photots2.jpg",
+              "episodeNumber": 2,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Current Photos, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Current Photos,"
+            },
+            {
+              "id": "4a9caba63bf54c7bb03848a317f081fa",
+              "title": "Drawing Gallery",
+              "content": {
+                "dateAdded": "2020-07-05T09:53:53+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_zfhnr3cu/v/2/ev/4/flavorId/0_j7xiokvz/fileName/Drawing_Gallery_2015-2014_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78,
+                "validityPeriodEnd": "4000-07-05T09:56:38+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/yN1Y7LD/Drawing-Gallery-2015-2014.jpg",
+              "episodeNumber": 3,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Drawing Gallery 2015-2014, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Drawing Gallery 2015-2014, To add your picture send it to Uptoten@uptoten.com"
+            },
+            {
+              "id": "b766f972d13a424688a53e3fcec2dc63",
+              "title": "Gallery 1",
+              "content": {
+                "dateAdded": "2020-07-05T09:57:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_znwo7dcc/v/2/ev/4/flavorId/0_c1xfsfnt/fileName/Gallery_1_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 120,
+                "validityPeriodEnd": "4000-07-05T09:58:33+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/ZSqQ7k7/Gallery-1.jpg",
+              "episodeNumber": 4,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Gallery 1, to add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Gallery 1, to add your picture send it to Uptoten@uptoten.com"
+            },
+            {
+              "id": "cb06aaebac714423a3444b66652a2325",
+              "title": "Gallery 2",
+              "content": {
+                "dateAdded": "2020-07-05T09:59:19+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4k1z5pi1/v/2/ev/3/flavorId/0_9j9mlpug/fileName/Gallery_2_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 80,
+                "validityPeriodEnd": "4000-07-05T10:00:58+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/yBwn55r/Gallery-2.jpg",
+              "episodeNumber": 5,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Gallery 2, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Gallery 2, To add your picture send it to Uptoten@uptoten.com"
+            },
+            {
+              "id": "74b010a9762148bfa6a3058932b58f07",
+              "title": "Gallery 3",
+              "content": {
+                "dateAdded": "2020-07-05T10:01:40+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_9kz0v0f3/v/2/ev/3/flavorId/0_ok62bxug/fileName/Gallery_3_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 99,
+                "validityPeriodEnd": "4000-07-05T10:02:52+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Q97K4Bm/Gallery-3.jpg",
+              "episodeNumber": 6,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Gallery 3, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Gallery 3, To add your picture send it to Uptoten@uptoten.com"
+            },
+            {
+              "id": "df2c4df20f79493ca5ae3b1cb1a48d85",
+              "title": "Gallery 4",
+              "content": {
+                "dateAdded": "2020-07-05T10:03:29+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_my98oi2c/v/2/ev/4/flavorId/0_6m63oz8e/fileName/Gallery_4_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 93,
+                "validityPeriodEnd": "4000-07-05T10:04:33+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/kgRg7ns/Gallery-4.jpg",
+              "episodeNumber": 7,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "PowerPoint Conversion from Gallery 4, to add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Gallery 4, to add your picture send it to Uptoten@uptoten.com"
+            },
+            {
+              "id": "a735a1db368c4a1ab0fec3fd4c6472de",
+              "title": "Gallery 5",
+              "content": {
+                "dateAdded": "2020-07-05T10:05:15+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_59ir6xqu/v/2/ev/4/flavorId/0_z4sx48xc/fileName/Gallery_5_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 87,
+                "validityPeriodEnd": "4000-07-05T10:06:16+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Sw9dytS/Gallery-5.jpg",
+              "episodeNumber": 8,
+              "releaseDate": "2016-12-14",
+              "shortDescription": "PowerPoint Conversion from Gallery 5, To add your picture send it to Uptoten@uptoten.com",
+              "longDescription": "PowerPoint Conversion from Gallery 5, To add your picture send it to Uptoten@uptoten.com"
+            }
+          ],
+          "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg"
+        }
+      ],
+      "genres": [
+        "children"
+      ],
+      "thumbnail": "https://i.ibb.co/FWD4KTd/Family-Album.jpg",
+      "releaseDate": "2008-12-14",
+      "shortDescription": "PowerPoint Conversion from Current Photos",
+      "longDescription": "PowerPoint Conversion from Current Photos, To add your picture send it to Uptoten@uptoten.com",
+      "tags": [
+        "series"
+      ]
+    },
+    {
+      "id": "18fbd1f4877d40c8bc3c45b0572214c5",
+      "title": "Boowa et kwala",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "db72629153c34593bfb98d1c533033b1",
+              "title": "J'aime la neige",
+              "content": {
+                "dateAdded": "2020-07-05T10:20:36+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_46dkevt7/v/2/ev/1/flavorId/0_b8ejlmzv/fileName/snowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 61,
+                "validityPeriodEnd": "4000-07-05T10:24:18+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
+              "episodeNumber": 1,
+              "releaseDate": "2008-05-27",
+              "shortDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent...",
+              "longDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent..."
+            },
+            {
+              "id": "74de1529ec59404892098bdfb9757a76",
+              "title": "Dans ma potion",
+              "content": {
+                "dateAdded": "2020-07-05T10:25:11+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_aol6273r/v/2/ev/1/flavorId/0_ezoxx21h/fileName/potSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 72,
+                "validityPeriodEnd": "4000-07-05T10:26:35+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/wN0B4hv/What-have-you-got-in-your-pot.jpg",
+              "episodeNumber": 2,
+              "releaseDate": "2008-10-01",
+              "shortDescription": "Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien...",
+              "longDescription": "Dis-moi quoi, ce qu'il y a, là là laaaaaaaaaaa ? Toi aussi tu veux savoir ce qu'il y a dans les chaudrons de Boowa et de Maman Koala ? Ecoute bien..."
+            },
+            {
+              "id": "9ea7bfb598a74277812beb4e4f008e89",
+              "title": "Des bonbons ou des bâtons",
+              "content": {
+                "dateAdded": "2020-07-05T10:27:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_14s68pmx/v/2/ev/1/flavorId/0_009cyi2u/fileName/tricktreat_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 34,
+                "validityPeriodEnd": "4000-07-05T10:28:45+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/D1W0Hcp/Trick-or-Treat.jpg",
+              "episodeNumber": 3,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala chantent Des bonbons ou des bâtons",
+              "longDescription": "Boowa et Kwala chantent Des bonbons ou des bâtons"
+            },
+            {
+              "id": "8f0f7daa2ab04aa3941555cf8a4abee0",
+              "title": "La Choco Chanson",
+              "content": {
+                "dateAdded": "2020-07-05T10:29:25+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_o1vail86/v/2/ev/1/flavorId/0_fo84ojuo/fileName/choccoSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 72,
+                "validityPeriodEnd": "4000-07-05T10:32:54+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/vZRVsMT/The-Chocco-Song.jpg",
+              "episodeNumber": 4,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?",
+              "longDescription": "Qu'est-ce qu'il y a dans la poule en chocolat de Boowa Waaa ? Et dans l'oeuf en chocolat de Kwala laaaa ?"
+            },
+            {
+              "id": "3d44d827c3744a5e97cf7dec9403ffa3",
+              "title": "La danse des bouées",
+              "content": {
+                "dateAdded": "2020-07-05T10:33:47+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_8rpc0sme/v/2/ev/1/flavorId/0_u986uj4m/fileName/rubberRingSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 65,
+                "validityPeriodEnd": "4000-07-05T10:35:03+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/w0MpvFy/The-twirly-dance-game.jpg",
+              "episodeNumber": 5,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !",
+              "longDescription": "As-tu déjà utilisé ta bouée comme un tutu ? Boowa et Kwala nous chantent et nous dansent un drôle de ballet... Mais pas tout à fait !"
+            },
+            {
+              "id": "cb39e83945ec470d85c4332a221ee38b",
+              "title": "J'aime courir",
+              "content": {
+                "dateAdded": "2020-07-05T10:35:38+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_f2tegu2w/v/2/ev/1/flavorId/0_usuieln9/fileName/runSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 62,
+                "validityPeriodEnd": "4000-07-05T10:36:56+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg",
+              "episodeNumber": 6,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !",
+              "longDescription": "Si tu aimes glisser, sauter, marcher, sautiller et courir... Chante avec Boowa et Kwala !"
+            },
+            {
+              "id": "ed49cc610af949658c87b29f5fc3dfec",
+              "title": "Joyeux anniversaire Kwala",
+              "content": {
+                "dateAdded": "2020-07-05T10:37:27+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_0xpbr2ax/v/2/ev/1/flavorId/0_5v0bg0ff/fileName/birthdaySongKwala_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 42,
+                "validityPeriodEnd": "4000-07-05T10:38:51+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/yN1dZD7/Have-a-Happy-Birthday-Kwala.jpg",
+              "episodeNumber": 7,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !",
+              "longDescription": "Chante avec Boowa et n'hésite pas à faire des pouets rigolos avec Kwala !"
+            },
+            {
+              "id": "05b6a4b4735f47958b814790c6cd8401",
+              "title": "Joyeux anniversaire... Boowa !",
+              "content": {
+                "dateAdded": "2020-07-05T10:39:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_usez9bbt/v/2/ev/1/flavorId/0_nsicvm4f/fileName/birthdaysong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 22,
+                "validityPeriodEnd": "4000-07-05T10:40:52+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Pt0kzYb/Happy-birthday-to-yooooou.jpg",
+              "episodeNumber": 8,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Kwala chante joyeux anniversaire à son ami Boowa.",
+              "longDescription": "Kwala chante joyeux anniversaire à son ami Boowa."
+            },
+            {
+              "id": "4bf108e440894ec393e8d7e35251b31d",
+              "title": "J'attends",
+              "content": {
+                "dateAdded": "2020-07-05T10:49:50+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_h3fc4gxj/v/2/ev/1/flavorId/0_zd1sbify/fileName/waitingSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "4000-07-05T10:51:01+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/jhyHgxG/The-Waiting.jpg",
+              "episodeNumber": 9,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !",
+              "longDescription": "Attendre que les haricots poussent peut paraître bien long... Heureusement que Papa Koala, Boowa et Kwala connaissent une super chanson pour passer le temps !"
+            },
+            {
+              "id": "895b79d562884543a3258839d7b9e78a",
+              "title": "Du bidon",
+              "content": {
+                "dateAdded": "2020-07-05T10:51:44+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3xxubvic/v/2/ev/1/flavorId/0_r6ygijup/fileName/tumSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74,
+                "validityPeriodEnd": "4000-07-05T10:52:49+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/k02vbyB/Big-Fat-Tum.jpg",
+              "episodeNumber": 10,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala.",
+              "longDescription": "Après un bon repas, comment se sent-on ? Chante les plaisirs de la table avec Boowa et Kwala."
+            },
+            {
+              "id": "502fb4e5d8fc4d0292a41e95575145b4",
+              "title": "Le tic tac doux",
+              "content": {
+                "dateAdded": "2020-07-05T10:53:24+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_1mnxazvm/v/2/ev/1/flavorId/0_esmuj94d/fileName/tickTockSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 101,
+                "validityPeriodEnd": "4000-07-05T10:54:33+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Bw5c4mZ/Tick-Tock-Song.jpg",
+              "episodeNumber": 11,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!",
+              "longDescription": "Comment savoir qu'il est Quatre heures ? Demande à Kwala qui a un excellent moyen !!!"
+            },
+            {
+              "id": "6e84ad2c609340219580994150ce122d",
+              "title": "My Favorite Peluche",
+              "content": {
+                "dateAdded": "2020-07-05T10:55:16+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fto8umli/v/2/ev/1/flavorId/0_5yy4qrjw/fileName/teddySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78,
+                "validityPeriodEnd": "4000-07-05T10:56:20+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/cFDZV0q/My-Favorite-Cuddly-Toy.jpg",
+              "episodeNumber": 12,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?",
+              "longDescription": "Doudou de Kwala est un lapin. Boowa s est une coquille. Qu'est-ce qui est à toi?"
+            },
+            {
+              "id": "f26e379821024e70bf8b28981d08c67a",
+              "title": "Super-héros de la nature",
+              "content": {
+                "dateAdded": "2020-07-05T10:56:55+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_xfapkjpl/v/2/ev/1/flavorId/0_e562eobz/fileName/superSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78,
+                "validityPeriodEnd": "4000-07-05T10:58:06+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/tKmYLXG/Superheroes-Save-The-World.jpg",
+              "episodeNumber": 13,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Pour devenir des super-héros... Il suffit de ramasser quelques déchets !",
+              "longDescription": "Pour devenir des super-héros... Il suffit de ramasser quelques déchets !"
+            },
+            {
+              "id": "1cd1e643e6394bfd875c0deed1e87c79",
+              "title": "Tête, épaules, genoux, doigts de pieds",
+              "content": {
+                "dateAdded": "2020-07-05T10:59:07+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_92klgylg/v/2/ev/1/flavorId/0_wscpr72m/fileName/songdance_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 113,
+                "validityPeriodEnd": "4000-07-05T11:00:02+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/vJMmNs6/Heads-and-shoulders-knees-and-toes.jpg",
+              "episodeNumber": 14,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala chantent Guili Guili.",
+              "longDescription": "Boowa et Kwala chantent Guili Guili."
+            },
+            {
+              "id": "ca874974324b40369376bf0e4b01a6da",
+              "title": "Je ne veux pas dormir toute seule",
+              "content": {
+                "dateAdded": "2020-07-05T11:00:38+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_apman2hb/v/2/ev/1/flavorId/0_82lk22bp/fileName/sleepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 96,
+                "validityPeriodEnd": "4000-07-05T11:01:39+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/x1cbhS0/I-Don-039-t-Want-to-Sleep-Alone.jpg",
+              "episodeNumber": 15,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante avec Siwa tes parents chanteront avec Dawa!",
+              "longDescription": "Chante avec Siwa tes parents chanteront avec Dawa!"
+            },
+            {
+              "id": "670994884bda4617a4c1d437aa7becf3",
+              "title": "Hop Hop Plouf",
+              "content": {
+                "dateAdded": "2020-07-05T11:02:15+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_v4ymojhu/v/2/ev/1/flavorId/0_h4zf4fis/fileName/skipStoneSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 58,
+                "validityPeriodEnd": "4000-07-05T11:04:06+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/HX3598w/Skip-Skip-Plop.jpg",
+              "episodeNumber": 16,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !",
+              "longDescription": "Ecoute bien... Boowa t'explique comment faire rebondir des cailloux sur l'eau !"
+            },
+            {
+              "id": "88af187608a64c709361f1593ee58252",
+              "title": "J'aime chanter (sous la douche)",
+              "content": {
+                "dateAdded": "2020-07-05T11:04:46+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_78sm6t2j/v/2/ev/1/flavorId/0_i68ja2ue/fileName/showerSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 75,
+                "validityPeriodEnd": "4000-07-05T11:05:47+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Tcxrh45/Singing-in-the-Shower.jpg",
+              "episodeNumber": 17,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !",
+              "longDescription": "Boowa et Kwala adorent se laver. Mais ce qu'ils préfèrent... C'est chanter sous la douche !"
+            },
+            {
+              "id": "fdee0a0d55204c548e51526e9816b3dd",
+              "title": "Combien de moutons",
+              "content": {
+                "dateAdded": "2020-07-05T11:12:22+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_9818zt4b/v/2/ev/1/flavorId/0_0bk53hjz/fileName/sheepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "4000-07-05T11:13:24+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/YXND2Ww/How-many-sheep.jpg",
+              "episodeNumber": 18,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Combien de moutons peut-on sauter d'un seul coup ?",
+              "longDescription": "Combien de moutons peut-on sauter d'un seul coup ?"
+            },
+            {
+              "id": "4ac01b0969c842c3b9078e2e19120f2b",
+              "title": "Je n'vois pas (devant moi)",
+              "content": {
+                "dateAdded": "2020-07-05T11:13:54+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6iwr8oni/v/2/ev/1/flavorId/0_3n7hmjj7/fileName/seeSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 68,
+                "validityPeriodEnd": "4000-07-05T11:14:46+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/BVy2W1p/I-Can-039-t-See.jpg",
+              "episodeNumber": 19,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Même quand on ne voit pas bien, on peut jouer de la musique et chanter !",
+              "longDescription": "Même quand on ne voit pas bien, on peut jouer de la musique et chanter !"
+            },
+            {
+              "id": "7eb1073c696e420dbef041681f1f7adb",
+              "title": "Je ne suis pas peur de rien",
+              "content": {
+                "dateAdded": "2020-07-05T11:40:31+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_lltnwjm0/v/2/ev/1/flavorId/0_kln0hlf4/fileName/scaredSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74,
+                "validityPeriodEnd": "4000-07-05T11:42:14+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/jJjDNVf/I-039-m-not-scared-about-anything.jpg",
+              "episodeNumber": 20,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala avec Siwa chante de ne pas avoir peur",
+              "longDescription": "Boowa et Kwala avec Siwa chante de ne pas avoir peur"
+            },
+            {
+              "id": "aa0d1d5ed10f4f9d9d1498afc49a57a7",
+              "title": "Si tu veux que les oiseaux s'en aillent",
+              "content": {
+                "dateAdded": "2020-07-05T11:43:04+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_d9pm9nh1/v/2/ev/1/flavorId/0_9d821ut4/fileName/scarecrowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 93,
+                "validityPeriodEnd": "4000-07-05T11:44:24+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/zs4YvxV/The-Scare-Crow-Song.jpg",
+              "episodeNumber": 21,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !",
+              "longDescription": "Fais comme un épouvantail... Mais si tu veux qu'ils restent, fais comme une statuette !"
+            },
+            {
+              "id": "259c03d352b740789f477a24334bf715",
+              "title": "Sucré-Salé",
+              "content": {
+                "dateAdded": "2020-07-05T11:45:11+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_2kd3zhke/v/2/ev/1/flavorId/0_af2jtmnd/fileName/saltySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 94,
+                "validityPeriodEnd": "4000-07-05T11:46:16+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/mBHgj5B/Salt-is-salty-and-sugar-is-sweet.jpg",
+              "episodeNumber": 22,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !",
+              "longDescription": "Sais tu reconnaître le sucre et le sel ? Voici une chanson qui t'y aidera !"
+            },
+            {
+              "id": "f54e75c5d21b405f811b0833857f8e84",
+              "title": "Lance la balle",
+              "content": {
+                "dateAdded": "2020-07-05T11:47:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3gll7fgw/v/2/ev/1/flavorId/0_e4ojp5by/fileName/Lance_la_balle_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 61,
+                "validityPeriodEnd": "4000-07-05T11:48:06+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/jwKjqDS/Playball-Song.jpg",
+              "episodeNumber": 23,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux....",
+              "longDescription": "Mawa, Boowa et Kwala lancent et rattrapent la balle en chantant ! Chante avec eux...."
+            },
+            {
+              "id": "74024df655af4c07b9553b7e6a0acbdb",
+              "title": "Musique en LA pour l'amitié",
+              "content": {
+                "dateAdded": "2020-07-05T19:27:18+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fdzqkzyj/v/2/ev/1/flavorId/0_6jxir1fg/fileName/musicSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 69,
+                "validityPeriodEnd": "4000-07-05T19:29:44+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/g7pwhvj/Music-for-Everyone.jpg",
+              "episodeNumber": 24,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !",
+              "longDescription": "Dawa chante et joue de tous les instruments en même temps ! Il souhaite ainsi partager sa passion de la musique avec ses amis et sa famille mais il nous fait aussi beaucoup rire !"
+            },
+            {
+              "id": "2789346b2ab34bc489f6bead67462807",
+              "title": "Combien de champignons ?",
+              "content": {
+                "dateAdded": "2020-07-05T19:30:44+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_agl4vdko/v/2/ev/1/flavorId/0_xk26m3ni/fileName/mushroomSong_fr_(Source).MP4/forceproxy/true/name/a.MP4name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 62,
+                "validityPeriodEnd": "4000-07-05T19:40:26+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/gwRK5W2/howmany-mushrooms.jpg",
+              "episodeNumber": 25,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent...",
+              "longDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent..."
+            },
+            {
+              "id": "0d2ef444a3bc4081992286bbd68959f2",
+              "title": "Au revoir on déménage",
+              "content": {
+                "dateAdded": "2020-07-05T19:44:34+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_79rq2945/v/2/ev/1/flavorId/0_3t4g6703/fileName/movingHouseSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 61,
+                "validityPeriodEnd": "4000-07-05T19:46:14+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/rpJgJh7/Bye-Bye-We-re-Moving-House.jpg",
+              "episodeNumber": 26,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Mais nous serons toujours près de toi dans nos coeurs ;o)",
+              "longDescription": "Mais nous serons toujours près de toi dans nos coeurs ;o)"
+            },
+            {
+              "id": "cf79df7e359c40e58ab11bd5cc0910e4",
+              "title": "Perdu ou caché",
+              "content": {
+                "dateAdded": "2020-07-06T22:21:12+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_3rhj0khl/v/2/ev/1/flavorId/0_3007gp8o/fileName/lostfoundSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 82,
+                "validityPeriodEnd": "4000-07-06T22:23:07+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/DLfTPhV/I-found-it.jpg",
+              "episodeNumber": 27,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Est-ce que le trésor est perdu... ou tout simplement caché ?",
+              "longDescription": "Est-ce que le trésor est perdu... ou tout simplement caché ?"
+            },
+            {
+              "id": "2b426d2ebb9146e8a96e37ccac372a96",
+              "title": "Bisou, câlin et doudou",
+              "content": {
+                "dateAdded": "2020-07-06T22:24:12+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_pacwi0ax/v/2/ev/1/flavorId/0_6r5w5p7w/fileName/kissCuddleSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 96,
+                "validityPeriodEnd": "4000-07-06T22:26:49+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/8Mqz9Wq/Kiss-and-a-cuddle.jpg",
+              "episodeNumber": 28,
+              "releaseDate": "2020-07-06",
+              "shortDescription": "Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père.",
+              "longDescription": "Les étoiles sont dehors, il se fait tard, et je ne peux pas dormir ... Je me sens peur, je me sens triste, je dois à ma mère que je dois à mon père."
+            }
+          ],
+          "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
+        }
+      ],
+      "genres": [
+        "children"
+      ],
+      "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg",
+      "releaseDate": "2008-05-27",
+      "shortDescription": "Explorez avec Boowa et Kwala, puis Chantez le long",
+      "longDescription": "Chansons et vidéos anglaises présentées par Uptoten.com",
+      "tags": [
+        "series"
+      ]
+    },
+    {
+      "id": "d849634bf5964c41b81f970ac01a8807",
       "title": "Doc Eureka",
       "seasons": [
         {
           "seasonNumber": 1,
           "episodes": [
             {
-              "id": "3ce969c561e742f78a7331200f617142",
+              "id": "b9e8e7fb4ebe4364a336c2689f73a30e",
               "title": "Doc Eureka : The Airplane",
               "content": {
-                "dateAdded": "2020-05-25T04:20:37+00:00",
+                "dateAdded": "2020-07-05T09:24:37+00:00",
                 "videos": [
                   {
                     "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_nkvrhoua/v/2/ev/1/flavorId/0_p8sn566k/fileName/Doc_Eureka_:_The_Airplane_(Source).mp4/forceproxy/true/name/a.mp4",
@@ -3428,19 +3465,20 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 422
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-05T09:27:11+00:00"
               },
               "thumbnail": "https://i.ibb.co/Z6tkS2L/Doc-Eureka-The-Airplane.jpg",
               "episodeNumber": 1,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka explores the Wright Brothers",
-              "longDescription": "https://en.wikipedia.org/wiki/Wright_Brothers | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com/premium"
+              "longDescription": "https://en.wikipedia.org/wiki/Wright_Brothers | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
             },
             {
-              "id": "fcfaa720f2f14ac397a82a74f5f23dd3",
+              "id": "5c9b6a5411b340ae87a3b9ee6e416983",
               "title": "Doc Eureka : Scotch Tape",
               "content": {
-                "dateAdded": "2020-05-25T04:23:04+00:00",
+                "dateAdded": "2020-07-05T09:28:08+00:00",
                 "videos": [
                   {
                     "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4jk561li/v/2/ev/1/flavorId/0_4gejmje2/fileName/Doc_Eureka_:_Scotch_Tape_(Source).mp4/forceproxy/true/name/a.mp4",
@@ -3448,19 +3486,20 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 422
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-05T09:47:17+00:00"
               },
               "thumbnail": "https://i.ibb.co/2jC8yLS/Doc-Eureka-Scotch-Tape.jpg",
               "episodeNumber": 2,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka shows us the Origins of Scotch Tape from \"Dick Drew\"",
-              "longDescription": "www.thoughtco.com/history-of-scotch-tape-1992403 | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com/premium"
+              "longDescription": "www.thoughtco.com/history-of-scotch-tape-1992403 | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
             },
             {
-              "id": "9c40885b381647498c169e53abb68bff",
+              "id": "a98344a2ddb4483380d55413de3c8f93",
               "title": "Doc Eureka : The Bicycle",
               "content": {
-                "dateAdded": "2020-05-25T04:30:40+00:00",
+                "dateAdded": "2020-07-05T09:32:14+00:00",
                 "videos": [
                   {
                     "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_giyceu1f/v/2/ev/1/flavorId/0_65h2vsf4/fileName/Doc_Eureka_:_The_Bicycle_(Source).mp4/forceproxy/true/name/a.mp4",
@@ -3468,13 +3507,14 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 300
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-05T09:47:24+00:00"
               },
               "thumbnail": "https://i.ibb.co/D7hgb95/Doc-Eureka-The-Bicycle.jpg",
               "episodeNumber": 3,
-              "releaseDate": "2016-12-14",
+              "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka explores the Pedal Driven Bicycle created by Kirkpatrick Macmillan",
-              "longDescription": "en.wikipedia.org/wiki/Kirkpatrick_Macmillan | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com/premium"
+              "longDescription": "en.wikipedia.org/wiki/Kirkpatrick_Macmillan | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
             }
           ],
           "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg"
@@ -3484,7 +3524,7 @@
         "children"
       ],
       "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg",
-      "releaseDate": "2016-12-14",
+      "releaseDate": "2020-07-05",
       "shortDescription": "Doc Eureka explores experiments and how they came to be",
       "longDescription": "Watch the videos of Eureka on UpToTen.Everybody can be a genius! But How genius get the idea? This is what we learn in the educational and entertaineing tv series!!! www.uptoten.com/premium",
       "tags": [
@@ -3492,17 +3532,17 @@
       ]
     },
     {
-      "id": "037f57b731c44a449dff5e6186618c1a",
+      "id": "a794162bab524d36869715a60ac5cad1",
       "title": "Marcelino",
       "seasons": [
         {
           "seasonNumber": 1,
           "episodes": [
             {
-              "id": "cd9d10d30e224e17ab9e81a7e94fbe40",
+              "id": "c0f0d766439243368eca0de1e23c3d95",
               "title": "Marcelino : Casio The LumberJack",
               "content": {
-                "dateAdded": "2020-05-25T04:53:07+00:00",
+                "dateAdded": "2020-07-05T10:11:03+00:00",
                 "videos": [
                   {
                     "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_i5m73bb5/v/2/ev/1/flavorId/0_37eq5mo7/fileName/Marcelino_:_Casio_The_LumberJack_(Source).mp4/forceproxy/true/name/a.mp4",
@@ -3510,19 +3550,20 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 1389
+                "duration": 1389,
+                "validityPeriodEnd": "4000-07-05T10:12:59+00:00"
               },
               "thumbnail": "https://i.ibb.co/B680236/Marcelino-Casio-the-Lumber-Jack.jpg",
               "episodeNumber": 1,
               "releaseDate": "2016-12-14",
               "shortDescription": "Watch Marcelino and all of his friends in full episodes",
-              "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com/premium"
+              "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com"
             },
             {
-              "id": "5f3dfa6f67ef42b4881208d0093af5e5",
+              "id": "ab6c31c20305434e8c94e451e375c93a",
               "title": "Marcelino : A True Gentlemen",
               "content": {
-                "dateAdded": "2020-05-25T05:02:59+00:00",
+                "dateAdded": "2020-07-05T10:11:34+00:00",
                 "videos": [
                   {
                     "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_qigvu7ji/v/2/ev/1/flavorId/0_w49dfyab/fileName/Marcelino_:_A_True_Gentlemen_(Source).mp4/forceproxy/true/name/a.mp4",
@@ -3530,28 +3571,34 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 1389
+                "duration": 1389,
+                "validityPeriodEnd": "4000-07-05T10:16:02+00:00"
               },
               "thumbnail": "https://i.ibb.co/2FmMnDx/Marcelino-A-True-Gentlemen.jpg",
               "episodeNumber": 2,
               "releaseDate": "2016-12-14",
               "shortDescription": "Watch Marcelino and all of his friends in full episodes",
-              "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com/premium"
+              "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com"
             }
           ],
           "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg"
         }
       ],
-      "genres": [
-        "children"
-      ],
+      "genres": [],
       "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg",
       "releaseDate": "2016-12-14",
       "shortDescription": "Watch Marcelino and all of his friends in full episodes",
-      "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com/premium",
+      "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com",
       "tags": [
         "series"
       ]
+    },
+    {
+      "id": "da31ec8b14af4f5cbef219e29be6dd23",
+      "title": "Dr. Zitbag's Transylvania Pet Shop",
+      "genres": [],
+      "thumbnail": "",
+      "releaseDate": "2020-07-05"
     }
   ]
 }
