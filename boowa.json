@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-07T12:00:04+00:00",
+  "lastUpdated": "2020-07-07T02:38:24+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3585,7 +3585,9 @@
           "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg"
         }
       ],
-      "genres": [],
+      "genres": [
+        "children"
+      ],
       "thumbnail": "https://i.ibb.co/f4GBSgy/marcelino-logo.jpg",
       "releaseDate": "2016-12-14",
       "shortDescription": "Watch Marcelino and all of his friends in full episodes",
