@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-06T11:38:47+00:00",
+  "lastUpdated": "2020-07-07T12:00:04+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3593,13 +3593,6 @@
       "tags": [
         "series"
       ]
-    },
-    {
-      "id": "da31ec8b14af4f5cbef219e29be6dd23",
-      "title": "Dr. Zitbag's Transylvania Pet Shop",
-      "genres": [],
-      "thumbnail": "",
-      "releaseDate": "2020-07-05"
     }
   ]
 }
