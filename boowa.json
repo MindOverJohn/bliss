@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-07T03:09:30+00:00",
+  "lastUpdated": "2020-07-09T11:00:00+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -2539,7 +2539,7 @@
       "shortDescription": "Explore with  Boowa & Kwala and then Sing Along",
       "longDescription": "English Songs and Videos presented by Uptoten.com",
       "tags": [
-        "series"
+        "Series"
       ]
     },
     {
@@ -2729,7 +2729,7 @@
       "shortDescription": "PowerPoint Conversion from Current Photos",
       "longDescription": "PowerPoint Conversion from Current Photos, To add your picture send it to Uptoten@uptoten.com",
       "tags": [
-        "series"
+        "Series"
       ]
     },
     {
@@ -3444,7 +3444,7 @@
       "shortDescription": "Explorez avec Boowa et Kwala, puis Chantez le long",
       "longDescription": "Chansons et vidéos anglaises présentées par Uptoten.com",
       "tags": [
-        "series"
+        "Series"
       ]
     },
     {
@@ -3529,7 +3529,7 @@
       "shortDescription": "Doc Eureka explores experiments and how they came to be",
       "longDescription": "Watch the videos of Eureka on UpToTen.Everybody can be a genius! But How genius get the idea? This is what we learn in the educational and entertaineing tv series!!! www.uptoten.com/premium",
       "tags": [
-        "series"
+        "Series"
       ]
     },
     {
@@ -3593,8 +3593,15 @@
       "shortDescription": "Watch Marcelino and all of his friends in full episodes",
       "longDescription": "Watch Marcelino and all of his friends in full episodes, music videos, and video \r\nclips at UpToTen. Marcelino, who is able to talk with animals, lives very closed to the animals, the trees and plants. He delights in discovering new things, and often asks unusual questions. The friars educate and love the boy. www.uptoten.com",
       "tags": [
-        "series"
+        "Series"
       ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Series",
+      "query": "Series",
+      "order": "manual"
     }
   ]
 }
