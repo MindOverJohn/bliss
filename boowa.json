@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-09T11:30:14+00:00",
+  "lastUpdated": "2020-07-09T11:38:37+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -2539,7 +2539,6 @@
       "shortDescription": "Explore with  Boowa & Kwala and then Sing Along",
       "longDescription": "English Songs and Videos presented by Uptoten.com",
       "tags": [
-        "Boowa",
         "Series"
       ]
     },
@@ -2730,7 +2729,6 @@
       "shortDescription": "PowerPoint Conversion from Current Photos",
       "longDescription": "PowerPoint Conversion from Current Photos, To add your picture send it to Uptoten@uptoten.com",
       "tags": [
-        "Photos,",
         "Series"
       ]
     },
@@ -3446,7 +3444,6 @@
       "shortDescription": "Explorez avec Boowa et Kwala, puis Chantez le long",
       "longDescription": "Chansons et vidéos anglaises présentées par Uptoten.com",
       "tags": [
-        "Kwala",
         "Series"
       ]
     },
@@ -3604,11 +3601,6 @@
     {
       "name": "Series",
       "query": "Series",
-      "order": "chronological"
-    },
-    {
-      "name": "Boowa & Kwala",
-      "query": "Boowa, Photos, Kwala",
       "order": "chronological"
     }
   ]
