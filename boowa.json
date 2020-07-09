@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-09T11:38:37+00:00",
+  "lastUpdated": "2020-07-09T12:04:21+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -2475,60 +2475,6 @@
             }
           ],
           "thumbnail": "https://i.ibb.co/2j5RbVC/Six-Green-Frogs.jpg"
-        },
-        {
-          "seasonNumber": 4,
-          "episodes": [
-            {
-              "id": "df0ed8772b2f49b5964fb3b9209a38e1",
-              "title": "T'es heureux et tu le sais ?",
-              "content": {
-                "dateAdded": "2020-07-04T10:19:29+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_8wl58t7a/v/2/ev/1/flavorId/0_62kln6zy/fileName/happy_fr_(Source).MP4/forceproxy/true/name/a.MP4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 96,
-                "validityPeriodEnd": "4000-07-04T23:37:59+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/wSt3Rb5/If-you-are-happy.jpg",
-              "episodeNumber": 34,
-              "releaseDate": "2008-07-04",
-              "shortDescription": "(S4 | CHANSONS) : Une fameuse chanson interprétée par Boowa et Kwala.",
-              "longDescription": "Une fameuse chanson interprétée par Boowa et Kwala."
-            }
-          ],
-          "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
-        },
-        {
-          "seasonNumber": 5,
-          "episodes": [
-            {
-              "id": "a24ced4b8a0f4ae7a6285d46c7dec346",
-              "title": "L'arc-en-ciel",
-              "content": {
-                "dateAdded": "2020-05-27T08:24:31+00:00",
-                "videos": [
-                  {
-                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6zvvnc11/v/2/ev/1/flavorId/0_umeckm9a/fileName/boowa_kwala_the_rainbow_fr_(Source).mp4/forceproxy/true/name/a.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 299,
-                "validityPeriodEnd": "3000-05-27T08:27:44+00:00"
-              },
-              "thumbnail": "https://i.ibb.co/fn8G9Rm/I-039-m-a-Rainbow.jpg",
-              "episodeNumber": 1,
-              "releaseDate": "2016-12-22",
-              "shortDescription": "(S5 | Vidéos) : Boowa est un nuage de pluie, Kwala est le soleil.... Et devine qui est l'arc en ciel ?",
-              "longDescription": "(S5 | Vidéos) : Boowa est un nuage de pluie, Kwala est le soleil.... Et devine qui est l'arc en ciel ?"
-            }
-          ],
-          "thumbnail": "https://i.ibb.co/kgTk8YT/beepbeepsong.jpg"
         }
       ],
       "genres": [
@@ -3434,6 +3380,54 @@
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "id": "53555f71cd6045b590acffef4fabb389",
+              "title": "L'arc-en-ciel",
+              "content": {
+                "dateAdded": "2020-07-09T11:57:24+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6zvvnc11/v/2/ev/1/flavorId/0_umeckm9a/fileName/boowa_kwala_the_rainbow_fr_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 299,
+                "validityPeriodEnd": "4000-07-09T11:59:08+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/fn8G9Rm/I-039-m-a-Rainbow.jpg",
+              "episodeNumber": 1,
+              "releaseDate": "2008-12-22",
+              "shortDescription": "Boowa est un nuage de pluie, Kwala est le soleil.... Et devine qui est l'arc en ciel ?",
+              "longDescription": "Boowa est un nuage de pluie, Kwala est le soleil.... Et devine qui est l'arc en ciel ?"
+            },
+            {
+              "id": "df6751f3a2eb41caae0c1b138cf2a65e",
+              "title": "J’adore les fraises",
+              "content": {
+                "dateAdded": "2020-07-09T12:02:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4xxjydlo/v/2/ev/1/flavorId/0_ok0tv3yo/fileName/boowa_kwala_i_love_strawberries_fr_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 300,
+                "validityPeriodEnd": "4000-07-09T12:03:55+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/2y27n5X/I-love-Strawberries.jpg",
+              "episodeNumber": 2,
+              "releaseDate": "2008-12-22",
+              "shortDescription": "Boowa et Kwala vont cueillir quelques fraises délicieuses dans le jardin, mais trouver qu’un grignoteur de fraises est arrivé là avant eux.",
+              "longDescription": "Boowa et Kwala vont cueillir quelques fraises délicieuses dans le jardin, mais trouver qu’un grignoteur de fraises est arrivé là avant eux."
+            }
+          ],
+          "thumbnail": "https://i.ibb.co/DYP5jfY/boowa-fr.jpg"
         }
       ],
       "genres": [
