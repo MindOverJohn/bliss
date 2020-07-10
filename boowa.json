@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-09T12:04:21+00:00",
+  "lastUpdated": "2020-07-10T07:41:50+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3377,6 +3377,319 @@
               "releaseDate": "2008-06-01",
               "shortDescription": "Une fameuse chanson interprétée par Boowa et Kwala.",
               "longDescription": "Une fameuse chanson interprétée par Boowa et Kwala."
+            },
+            {
+              "id": "a6e74da303f741bcb3dff9640c128061",
+              "title": "Les meilleurs amis du monde",
+              "content": {
+                "dateAdded": "2020-07-10T06:25:30+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_y4yo58r9/v/2/ev/1/flavorId/0_0k99uid4/fileName/friendsSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 87,
+                "validityPeriodEnd": "4000-07-10T06:28:10+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/KsvtdzY/The-Friend-Song.jpg",
+              "episodeNumber": 34,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante avec ton meilleur ou ta meilleure amie !",
+              "longDescription": "Chante avec ton meilleur ou ta meilleure amie !"
+            },
+            {
+              "id": "6d401083dfe84bbd9abd32655c4067cd",
+              "title": "Mes petites mains",
+              "content": {
+                "dateAdded": "2020-07-10T06:31:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_5ku3cyzc/v/2/ev/1/flavorId/0_aiy5qccz/fileName/fiddlySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 70,
+                "validityPeriodEnd": "4000-07-10T06:40:37+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/k03VDGy/Fiddly-Finger-Thing.jpg",
+              "episodeNumber": 35,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Quand je regarde les mains de papa mienne semble si petit, mais maintenant, ils ne semblent pas petite atall ...",
+              "longDescription": "Quand je regarde les mains de papa mienne semble si petit, mais maintenant, ils ne semblent pas petite atall ..."
+            },
+            {
+              "id": "17e5d268f21a44528e313b589b0acd3e",
+              "title": "Mon sandwich préféré",
+              "content": {
+                "dateAdded": "2020-07-10T06:41:54+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_ay3drufr/v/2/ev/1/flavorId/0_y2c90llq/fileName/favoriteSandwichSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ]
+              },
+              "thumbnail": "https://i.ibb.co/h866fcQ/My-Favorite-Sandwich.jpg",
+              "episodeNumber": 36,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Mamie Koala connaît une chanson fantastique qui explique comment faire son sandwich préféré.",
+              "longDescription": "Mamie Koala connaît une chanson fantastique qui explique comment faire son sandwich préféré."
+            },
+            {
+              "id": "22daed2b8bc24ba6a3249747db2f9f60",
+              "title": "Vieux Donald avait une ferme...",
+              "content": {
+                "dateAdded": "2020-07-10T06:46:07+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_e3dlgesg/v/2/ev/1/flavorId/0_b8y6sm6j/fileName/farmsong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 140,
+                "validityPeriodEnd": "4000-07-10T06:49:20+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/4p8sZ8H/Old-Mac-Donald-Had-a-Farm.jpg",
+              "episodeNumber": 37,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante Eeaieeaioh avec Boowa et Kwala.",
+              "longDescription": "Chante Eeaieeaioh avec Boowa et Kwala."
+            },
+            {
+              "id": "706efbf404c247de8e3a0145cf7083fa",
+              "title": "L'expérience donne l'expérience",
+              "content": {
+                "dateAdded": "2020-07-10T06:52:26+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_mzjc5h28/v/2/ev/1/flavorId/0_qj4sf29b/fileName/experimentSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 82,
+                "validityPeriodEnd": "4000-07-10T06:55:03+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/yB6cT6p/Experiments-Give-Experience.jpg",
+              "episodeNumber": 38,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Je tiens à essayer des choses, des choses que je ne connais pas grand-chose ... chanter avec nous!",
+              "longDescription": "Je tiens à essayer des choses, des choses que je ne connais pas grand-chose ... chanter avec nous!"
+            },
+            {
+              "id": "a27a840c9da64ac0b4288cb92778e39a",
+              "title": "Echo cho cho",
+              "content": {
+                "dateAdded": "2020-07-10T06:56:00+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_6clb90sn/v/2/ev/1/flavorId/0_r63di0n4/fileName/echoSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 80,
+                "validityPeriodEnd": "4000-07-10T06:58:40+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/yRybQvY/Echo-cho-cho-cho-cho-cho-cho.jpg",
+              "episodeNumber": 39,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "La chanson des échos à chanter... avec un ami !",
+              "longDescription": "La chanson des échos à chanter... avec un ami !"
+            },
+            {
+              "id": "3d3a9b80e6fa4aa2aa8fe60a44eff8c9",
+              "title": "J'aime tes câlins",
+              "content": {
+                "dateAdded": "2020-07-10T07:00:12+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_ciz42jm5/v/2/ev/1/flavorId/0_rq5sn7ky/fileName/cuddleSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "4000-07-10T07:07:04+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/mv79cqj/Cuddly-Hug.jpg",
+              "episodeNumber": 40,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante avec Boowa et Kwala... et fais des câlins !",
+              "longDescription": "Chante avec Boowa et Kwala... et fais des câlins !"
+            },
+            {
+              "id": "f2a3b01f23e542e58e1f9d667e1c17e7",
+              "title": "Que fait ton papa ?",
+              "content": {
+                "dateAdded": "2020-07-10T07:00:49+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_okz0f15n/v/2/ev/1/flavorId/0_aakopyic/fileName/dadsong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 153,
+                "validityPeriodEnd": "4000-07-10T07:03:19+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/8syxKQ4/Daddys-song.jpg",
+              "episodeNumber": 41,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala chantent les métiers.",
+              "longDescription": "Boowa et Kwala chantent les métiers."
+            },
+            {
+              "id": "caed226f4a6540d19236cb6584efceeb",
+              "title": "Un, deux, trois, quatre, cinq...",
+              "content": {
+                "dateAdded": "2020-07-10T07:08:24+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fjn82rxq/v/2/ev/1/flavorId/0_wip418ol/fileName/count_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 66,
+                "validityPeriodEnd": "4000-07-10T07:10:59+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/WgZ6W0g/Once-I-caught-a-fish-alive.jpg",
+              "episodeNumber": 42,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante et compte jusqu'à dix avec Boowa j'ai pêché un poisson-chat",
+              "longDescription": "Chante et compte jusqu'à dix avec Boowa j'ai pêché un poisson-chat"
+            },
+            {
+              "id": "d3c8fe4999c64240a2ca011dac1c7037",
+              "title": "Baguettes Baguettes",
+              "content": {
+                "dateAdded": "2020-07-10T07:20:22+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_ogv1iyik/v/2/ev/1/flavorId/0_eb79sca1/fileName/chopsticksSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 84,
+                "validityPeriodEnd": "4000-07-10T07:21:40+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/BV3YGHf/The-Chopsticks-Song.jpg",
+              "episodeNumber": 43,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala nous apprennent à utiliser les baguettes",
+              "longDescription": "Boowa et Kwala nous apprennent à utiliser les baguettes"
+            },
+            {
+              "id": "789a79db4fcf447b99172a7317f7e767",
+              "title": "Quand un papillon s'envole",
+              "content": {
+                "dateAdded": "2020-07-10T07:22:38+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_aevxf7tl/v/2/ev/1/flavorId/0_dcl59mor/fileName/butterflySong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 53,
+                "validityPeriodEnd": "4000-07-10T07:25:16+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/rFWr2fX/A-Butterfly-Flies-Bysong.jpg",
+              "episodeNumber": 44,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Du rouge, du bleu, du vert... Chante l'envol multicolor des papillons !",
+              "longDescription": "Du rouge, du bleu, du vert... Chante l'envol multicolor des papillons !"
+            },
+            {
+              "id": "863301ad360d4bd894e9b4808cc86dae",
+              "title": "Souris, fais cheese",
+              "content": {
+                "dateAdded": "2020-07-10T07:28:15+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_91ot4imk/v/2/ev/1/flavorId/0_o96erj14/fileName/cheeseSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 78,
+                "validityPeriodEnd": "4000-07-10T07:29:11+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/y8g4pQB/picture.jpg",
+              "episodeNumber": 45,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "C'est rigolo de prendre des photos, mais c'est encore mieux quand chacun sourit. Cette chanson nous donne à tous un grand sourire radieux !",
+              "longDescription": "C'est rigolo de prendre des photos, mais c'est encore mieux quand chacun sourit. Cette chanson nous donne à tous un grand sourire radieux !"
+            },
+            {
+              "id": "7b73da633f4a4d469d41e7f6b05c2d52",
+              "title": "La meilleure journée",
+              "content": {
+                "dateAdded": "2020-07-10T07:32:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_g66argrd/v/2/ev/1/flavorId/0_59fkt05z/fileName/boredSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "4000-07-10T07:33:15+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Y3G58PG/The-Bored-Song.jpg",
+              "episodeNumber": 46,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Une chanson pour les journées heureuses !",
+              "longDescription": "Une chanson pour les journées heureuses !"
+            },
+            {
+              "id": "33b9dbef79014205911dc99081186613",
+              "title": "Boowa et Kwala sont là... Avec Dawa !",
+              "content": {
+                "dateAdded": "2020-07-10T07:36:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_nt1314q4/v/2/ev/1/flavorId/0_1aluq569/fileName/boowakwalaSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 59,
+                "validityPeriodEnd": "4000-07-10T07:38:00+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/C9Hn2wc/Boowa-and-Kwala-we-are-and-Dawa.jpg",
+              "episodeNumber": 47,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "La famille Wawa... Dawa, Mawa et Siwa aident Boowa et Kwala à mettre en scène leur chanson phare dans le studio de Dawa... Chante avec eux !!!",
+              "longDescription": "La famille Wawa... Dawa, Mawa et Siwa aident Boowa et Kwala à mettre en scène leur chanson phare dans le studio de Dawa... Chante avec eux !!!"
+            },
+            {
+              "id": "01cf5a07d3a147bfade7c4c98e8d5c52",
+              "title": "Noël est déjà là",
+              "content": {
+                "dateAdded": "2020-07-10T07:38:49+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_45s3mvs2/v/2/ev/1/flavorId/0_6vncow7d/fileName/boowakwalaChristmasSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 48,
+                "validityPeriodEnd": "4000-07-10T07:41:31+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/dcfyGVW/Hooray-for-Christmas.jpg",
+              "episodeNumber": 48,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Découvre la chanson de Noël de Kwala, et saute par ci et saute par là !!!",
+              "longDescription": "Découvre la chanson de Noël de Kwala, et saute par ci et saute par là !!!"
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
