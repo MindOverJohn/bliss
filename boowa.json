@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-10T07:41:50+00:00",
+  "lastUpdated": "2020-07-10T08:09:37+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3780,7 +3780,7 @@
               "episodeNumber": 1,
               "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka explores the Wright Brothers",
-              "longDescription": "https://en.wikipedia.org/wiki/Wright_Brothers | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
+              "longDescription": "https://en.wikipedia.org/wiki/Wright_Brothers | Experience Doc Eureka on www.uptoten.com"
             },
             {
               "id": "5c9b6a5411b340ae87a3b9ee6e416983",
@@ -3801,7 +3801,7 @@
               "episodeNumber": 2,
               "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka shows us the Origins of Scotch Tape from \"Dick Drew\"",
-              "longDescription": "www.thoughtco.com/history-of-scotch-tape-1992403 | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
+              "longDescription": "www.thoughtco.com/history-of-scotch-tape-1992403 | Experience Doc Eureka on www.uptoten.com"
             },
             {
               "id": "a98344a2ddb4483380d55413de3c8f93",
@@ -3822,7 +3822,49 @@
               "episodeNumber": 3,
               "releaseDate": "2008-12-14",
               "shortDescription": "Doc Eureka explores the Pedal Driven Bicycle created by Kirkpatrick Macmillan",
-              "longDescription": "en.wikipedia.org/wiki/Kirkpatrick_Macmillan | Experience Full Access to All Content to Activities, Games and Videos with Doc Eureka on www.uptoten.com"
+              "longDescription": "en.wikipedia.org/wiki/Kirkpatrick_Macmillan | Experience Doc Eureka on www.uptoten.com"
+            },
+            {
+              "id": "a80d6a4f456a493f9983191d6fe356b5",
+              "title": "Doc Eureka : The Alarm Clock",
+              "content": {
+                "dateAdded": "2020-07-10T07:46:49+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_p9g3vh62/v/2/ev/4/flavorId/0_u4jrmz6y/fileName/Doc_Eureka_:_The_Alarm_Clock_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T07:59:11+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/rF6T9ZX/0-kprswy0n.jpg",
+              "episodeNumber": 4,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka  : Shows us how Plato came up with the Alarm Clock",
+              "longDescription": "Doc Eureka  : Shows us how Plato came up with the Alarm Clock to help his students at the academy to arrive on time, see more on this from www.ancientpages.com/2016/05/06/ancient-greeks-invented-alarm-clocks |  Experience Doc Eureka on www.uptoten.com"
+            },
+            {
+              "id": "e4f7ee8183604cf19748afaa2bcbbef8",
+              "title": "Doc Eureka : Basketball",
+              "content": {
+                "dateAdded": "2020-07-10T08:01:07+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_cpbrhpfa/v/2/ev/1/flavorId/0_sr20ik5v/fileName/Doc_Eureka_:_Basketball_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T08:07:12+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/rf0BMWZ/0-2p2paus3.jpg",
+              "episodeNumber": 5,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Explores the Orgins of the Basketball with James Naismith",
+              "longDescription": "James Naismith invented basketball in 1891 at the International YMCA Training School in Springfield, Massachusetts. https://en.wikipedia.org/wiki/History_of_basketball | Experience Doc Eureka on www.uptoten.com"
             }
           ],
           "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg"
