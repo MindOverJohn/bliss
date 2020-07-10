@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-10T08:15:49+00:00",
+  "lastUpdated": "2020-07-10T10:26:11+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3865,8 +3865,50 @@
               "thumbnail": "https://i.ibb.co/rf0BMWZ/0-2p2paus3.jpg",
               "episodeNumber": 5,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka : Explores the Orgins of the Basketball with James Naismith",
+              "shortDescription": "Doc Eureka : Explores the Origins of the Basketball with James Naismith",
               "longDescription": "James Naismith invented basketball in 1891 at the International YMCA Training School in Springfield, Massachusetts. https://en.wikipedia.org/wiki/History_of_basketball | Experience Doc Eureka on www.uptoten.com"
+            },
+            {
+              "id": "3ccf3433bdbd4d2eb1f83cc5de4bad24",
+              "title": "Doc Eureka : Velcro",
+              "content": {
+                "dateAdded": "2020-07-10T10:07:02+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_xyboyqty/v/2/ev/3/flavorId/0_jihgpsnm/fileName/Doc_Eureka_:_Velcro_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T10:13:09+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/N9VTgDd/0-iucz02bh.jpg",
+              "episodeNumber": 6,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Shares how Velcro came to be George de Mestral a Swiss electrical engineer",
+              "longDescription": "Velcro was invented by George de Mestral a Swiss electrical engineer in 1941. This idea of inventing Velcro came to him when one day he returned after a walk from the hills and found cockleburs stuck to his clothes and his dog’s fur. www.whoinvented.org/who-invented-velcro"
+            },
+            {
+              "id": "cb7ec2ec15d845aba73730862c7d96e9",
+              "title": "Doc Eureka : The Teddy Bear",
+              "content": {
+                "dateAdded": "2020-07-10T10:14:47+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_rltdv22b/v/2/ev/1/flavorId/0_p5o5r80z/fileName/Doc_Eureka_:_The_Teddy_Bear_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T10:25:47+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/HVFqCJC/0-ohd3u0ic.jpg",
+              "episodeNumber": 7,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Shares where the joy a Teddy Bear brings from",
+              "longDescription": "A teddy bear is a stuffed toy in the form of a bear. Developed apparently simultaneously by toymakers Morris Michtom in the U.S. and Richard Steiff in Germany in the early years of the 20th century, and named after President Theodore \"Teddy\" Roosevelt, the teddy bear became an iconic children's toy, celebrated in story, song, and film. https://en.wikipedia.org/wiki/Teddy_bear"
             }
           ],
           "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg"
@@ -3876,7 +3918,7 @@
         "children"
       ],
       "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg",
-      "releaseDate": "2020-07-05",
+      "releaseDate": "2008-12-14",
       "shortDescription": "Doc Eureka explores experiments and how they came to be",
       "longDescription": "Watch the videos of Eureka on UpToTen.Everybody can be a genius! But How genius get the idea? This is what we learn in the educational and entertaineing tv series!!! www.uptoten.com/premium",
       "tags": [
