@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-10T08:09:37+00:00",
+  "lastUpdated": "2020-07-10T08:15:49+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3431,7 +3431,9 @@
                     "quality": "HD",
                     "videoType": "MP4"
                   }
-                ]
+                ],
+                "duration": 64,
+                "validityPeriodEnd": "4000-07-10T08:15:43+00:00"
               },
               "thumbnail": "https://i.ibb.co/h866fcQ/My-Favorite-Sandwich.jpg",
               "episodeNumber": 36,
