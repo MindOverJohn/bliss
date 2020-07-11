@@ -1,0 +1,51 @@
+{
+  "lastUpdated": "2020-07-11T05:42:08+00:00",
+  "providerName": "ScrambledBliss",
+  "language": "en-US",
+  "series": [
+    {
+      "id": "aab8def7c4d24fee9d10be0873ddcb62",
+      "title": "The Little Determined Vacuum Repairman",
+      "episodes": [
+        {
+          "id": "a9b47bfae92e4721964dcc06597f2ef5",
+          "title": "Eureka : How much dirt can a eureka vacuum pick up",
+          "content": {
+            "dateAdded": "2020-07-11T17:34:34+00:00",
+            "videos": [
+              {
+                "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_guu5imk3/v/12/ev/1/flavorId/0_6sbhdgpv/fileName/Eureka_:_How_Much_Dirt_(Source).mp4/forceproxy/true/name/a.mp4",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 298,
+            "validityPeriodEnd": "4000-07-11T17:39:40+00:00"
+          },
+          "thumbnail": "https://i.ibb.co/DDNp0dR/Eureka.jpg",
+          "episodeNumber": 1,
+          "releaseDate": "2020-07-11",
+          "shortDescription": "Eureka : Purchased from a local vendor and then the vacuum died",
+          "longDescription": "It's the challenge, buy - Fix it , then possible keep it or send it back into ciruclation"
+        }
+      ],
+      "genres": [
+        "educational"
+      ],
+      "thumbnail": "https://i.ibb.co/2FTj51R/IMG-20200711-172405.jpg",
+      "releaseDate": "2020-07-11",
+      "shortDescription": "I have been collecting them since I was little, now I can tinker and fix them",
+      "longDescription": "For myself I like the challenge of buying a vacuum and seeing if I can get it to work. If I like it long enough, it becomes part of my room otherwise it's restored and back into circulation for either Goodwill or Salvation Army. But sometimes, I found a really good deal on OfferUp",
+      "tags": [
+        "Series"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "The Little Determined Vacuum Repairman",
+      "query": "Series",
+      "order": "chronological"
+    }
+  ]
+}
