@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2020-07-11T05:42:08+00:00",
-  "providerName": "ScrambledBliss",
+  "lastUpdated": "2020-07-11T05:50:04+00:00",
+  "providerName": "Roku",
   "language": "en-US",
   "series": [
     {
       "id": "aab8def7c4d24fee9d10be0873ddcb62",
-      "title": "The Little Determined Vacuum Repairman",
+      "title": "The Little Vacuum Repairman",
       "episodes": [
         {
           "id": "a9b47bfae92e4721964dcc06597f2ef5",
@@ -43,7 +43,7 @@
   ],
   "categories": [
     {
-      "name": "The Little Determined Vacuum Repairman",
+      "name": "The Little Vacuum Repairman",
       "query": "Series",
       "order": "chronological"
     }
