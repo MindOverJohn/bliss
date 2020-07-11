@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-10T10:26:11+00:00",
+  "lastUpdated": "2020-07-10T10:52:39+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3781,7 +3781,7 @@
               "thumbnail": "https://i.ibb.co/Z6tkS2L/Doc-Eureka-The-Airplane.jpg",
               "episodeNumber": 1,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka explores the Wright Brothers",
+              "shortDescription": "Doc Eureka : Explores the Wright Brothers (REFERENCE) https://en.wikipedia.org/wiki/Wright_Brothers",
               "longDescription": "https://en.wikipedia.org/wiki/Wright_Brothers | Experience Doc Eureka on www.uptoten.com"
             },
             {
@@ -3802,7 +3802,7 @@
               "thumbnail": "https://i.ibb.co/2jC8yLS/Doc-Eureka-Scotch-Tape.jpg",
               "episodeNumber": 2,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka shows us the Origins of Scotch Tape from \"Dick Drew\"",
+              "shortDescription": "Doc Eureka : shows us the Origins of Scotch Tape from \"Dick Drew\" (REFERENCE) www.thoughtco.com/history-of-scotch-tape-1992403",
               "longDescription": "www.thoughtco.com/history-of-scotch-tape-1992403 | Experience Doc Eureka on www.uptoten.com"
             },
             {
@@ -3823,7 +3823,7 @@
               "thumbnail": "https://i.ibb.co/D7hgb95/Doc-Eureka-The-Bicycle.jpg",
               "episodeNumber": 3,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka explores the Pedal Driven Bicycle created by Kirkpatrick Macmillan",
+              "shortDescription": "Doc Eureka : explores the Pedal Driven Bicycle created by Kirkpatrick Macmillan. (REFERENCE) en.wikipedia.org/wiki/Kirkpatrick_Macmillan",
               "longDescription": "en.wikipedia.org/wiki/Kirkpatrick_Macmillan | Experience Doc Eureka on www.uptoten.com"
             },
             {
@@ -3844,7 +3844,7 @@
               "thumbnail": "https://i.ibb.co/rF6T9ZX/0-kprswy0n.jpg",
               "episodeNumber": 4,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka  : Shows us how Plato came up with the Alarm Clock",
+              "shortDescription": "Doc Eureka  : Shows us how Plato came up with the Alarm Clock (REFERENCE) www.ancientpages.com/2016/05/06/ancient-greeks-invented-alarm-clocks",
               "longDescription": "Doc Eureka  : Shows us how Plato came up with the Alarm Clock to help his students at the academy to arrive on time, see more on this from www.ancientpages.com/2016/05/06/ancient-greeks-invented-alarm-clocks |  Experience Doc Eureka on www.uptoten.com"
             },
             {
@@ -3865,7 +3865,7 @@
               "thumbnail": "https://i.ibb.co/rf0BMWZ/0-2p2paus3.jpg",
               "episodeNumber": 5,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka : Explores the Origins of the Basketball with James Naismith",
+              "shortDescription": "Doc Eureka : Origins of the Basketball with James Naismith. (REFERENCE)  https://en.wikipedia.org/wiki/History_of_basketbal",
               "longDescription": "James Naismith invented basketball in 1891 at the International YMCA Training School in Springfield, Massachusetts. https://en.wikipedia.org/wiki/History_of_basketball | Experience Doc Eureka on www.uptoten.com"
             },
             {
@@ -3886,7 +3886,7 @@
               "thumbnail": "https://i.ibb.co/N9VTgDd/0-iucz02bh.jpg",
               "episodeNumber": 6,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka : Shares how Velcro came to be George de Mestral a Swiss electrical engineer",
+              "shortDescription": "Doc Eureka : Velcro cameby George de Mestral, a Swiss electrical engineer (REFERENCE) www.whoinvented.org/who-invented-velcro",
               "longDescription": "Velcro was invented by George de Mestral a Swiss electrical engineer in 1941. This idea of inventing Velcro came to him when one day he returned after a walk from the hills and found cockleburs stuck to his clothes and his dog’s fur. www.whoinvented.org/who-invented-velcro"
             },
             {
@@ -3907,8 +3907,92 @@
               "thumbnail": "https://i.ibb.co/HVFqCJC/0-ohd3u0ic.jpg",
               "episodeNumber": 7,
               "releaseDate": "2008-12-14",
-              "shortDescription": "Doc Eureka : Shares where the joy a Teddy Bear brings from",
+              "shortDescription": "Doc Eureka : Shares where the joy a Teddy Bear brings (REFERENCE) https://en.wikipedia.org/wiki/Teddy_bear",
               "longDescription": "A teddy bear is a stuffed toy in the form of a bear. Developed apparently simultaneously by toymakers Morris Michtom in the U.S. and Richard Steiff in Germany in the early years of the 20th century, and named after President Theodore \"Teddy\" Roosevelt, the teddy bear became an iconic children's toy, celebrated in story, song, and film. https://en.wikipedia.org/wiki/Teddy_bear"
+            },
+            {
+              "id": "f3e124c48b88441ca957f6781b82fdbd",
+              "title": "Doc Eureka : The Postage Stamp",
+              "content": {
+                "dateAdded": "2020-07-10T22:08:55+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_yrs019xk/v/2/ev/1/flavorId/0_075uby8c/fileName/Doc_Eureka_:_The_Postage_Stamp_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T22:21:31+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/drrjp73/0-7p6sbqqx.jpg",
+              "episodeNumber": 8,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Rowland Hill Invents Adhesive Postage Stamps. (REFERENCE) www.thoughtco.com/history-of-stamps-1992419",
+              "longDescription": "Rowland Hill Invents Adhesive Postage Stamps . A schoolmaster from England, Sir Rowland Hill invented the adhesive postage stamp in 1837, an act for which he was knighted. https://www.thoughtco.com/history-of-stamps-1992419"
+            },
+            {
+              "id": "12b9d288b6c241b8b50c38fd8c88655c",
+              "title": "Doc Eureka : Roller Skates",
+              "content": {
+                "dateAdded": "2020-07-10T22:23:35+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_jjk5hly8/v/2/ev/1/flavorId/0_35xho7qh/fileName/Doc_Eureka_:_Roller_Skates_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T22:28:43+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/L17n6Ph/0-7vfwso1q.jpg",
+              "episodeNumber": 9,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Patented roller skate was introduced in 1760 by Belgian inventor John Joseph Merlin. (REFERENCE) : en.wikipedia.org/wiki/Roller_skates",
+              "longDescription": "While the first reported use of roller skates was on a London stage in 1743, the first patented roller skate was introduced in 1760 by Belgian inventor John Joseph Merlin. en.wikipedia.org/wiki/Roller_skates"
+            },
+            {
+              "id": "0b76484cf02a4a96878d3ac7142ada6a",
+              "title": "Doc Eureka : The Tire",
+              "content": {
+                "dateAdded": "2020-07-10T22:29:46+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fh935l66/v/2/ev/1/flavorId/0_l7r2ohr7/fileName/Doc_Eureka_:_The_Tire_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T22:35:46+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/qMdqBVR/0-k8xs0qkv.jpg",
+              "episodeNumber": 10,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : Tyres or Tires were invented by John Dunlop. (REFERENCE) www.whoinventedfirst.com/who-invented-the-tires/",
+              "longDescription": "Tyres or Tires were invented by John Dunlop. When he invented rubber tires in 1888 to cushion the ride of his son’s tricycle he called them tyres. www.whoinventedfirst.com/who-invented-the-tires/"
+            },
+            {
+              "id": "e39e1c15bd0945d5ab5c248031002765",
+              "title": "Doc Eureka : The Printing Press",
+              "content": {
+                "dateAdded": "2020-07-10T22:36:55+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_1s2okh3d/v/2/ev/1/flavorId/0_ovdq810w/fileName/Doc_Eureka_:_The_Printing_Press_(Source).mp4/forceproxy/true/name/a.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 422,
+                "validityPeriodEnd": "4000-07-10T22:48:04+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/3yDtPY9/0-a8yew993.jpg",
+              "episodeNumber": 11,
+              "releaseDate": "2008-12-14",
+              "shortDescription": "Doc Eureka : In 1450, Johannes Guttenberg invented the printing press. (REFERENCE)  www.historycentral.com/WH1400-1900/Tech/PrintingPress.html",
+              "longDescription": "In 1450, Johannes Guttenberg invented the printing press. The invention of the press revolutionized communication and education, allowing the development of newspapers, as well as reasonably priced books. www.historycentral.com/WH1400-1900/Tech/PrintingPress.html"
             }
           ],
           "thumbnail": "https://i.ibb.co/C60Kq8p/doc-eureka-LOGO.jpg"
