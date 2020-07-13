@@ -1,51 +1,67 @@
 {
-  "lastUpdated": "2020-07-11T05:50:04+00:00",
-  "providerName": "Roku",
+  "lastUpdated": "2020-07-13T12:25:13+00:00",
+  "providerName": "ScrambledBliss",
   "language": "en-US",
-  "series": [
+  "shortFormVideos": [
     {
-      "id": "aab8def7c4d24fee9d10be0873ddcb62",
-      "title": "The Little Vacuum Repairman",
-      "episodes": [
-        {
-          "id": "a9b47bfae92e4721964dcc06597f2ef5",
-          "title": "Eureka : How much dirt can a eureka vacuum pick up",
-          "content": {
-            "dateAdded": "2020-07-11T17:34:34+00:00",
-            "videos": [
-              {
-                "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_guu5imk3/v/12/ev/1/flavorId/0_6sbhdgpv/fileName/Eureka_:_How_Much_Dirt_(Source).mp4/forceproxy/true/name/a.mp4",
-                "quality": "HD",
-                "videoType": "MP4"
-              }
-            ],
-            "duration": 298,
-            "validityPeriodEnd": "4000-07-11T17:39:40+00:00"
-          },
-          "thumbnail": "https://i.ibb.co/DDNp0dR/Eureka.jpg",
-          "episodeNumber": 1,
-          "releaseDate": "2020-07-11",
-          "shortDescription": "Eureka : Purchased from a local vendor and then the vacuum died",
-          "longDescription": "It's the challenge, buy - Fix it , then possible keep it or send it back into ciruclation"
-        }
-      ],
+      "id": "f284520377ad4f90984b8c03c6fd6ce1",
+      "title": "Eureka : How much dirt can a eureka vacuum pick up",
+      "content": {
+        "dateAdded": "2018-07-24T00:16:26+00:00",
+        "videos": [
+          {
+            "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_guu5imk3/v/12/ev/1/flavorId/0_6sbhdgpv/fileName/Eureka_:_How_Much_Dirt_(Source).mp4/forceproxy/true/name/a.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 298,
+        "validityPeriodEnd": "4000-07-11T22:50:49+00:00"
+      },
+      "thumbnail": "https://i.ibb.co/DDNp0dR/Eureka.jpg",
+      "shortDescription": "Eureka : Purchased from a local vendor and then the vacuum died",
+      "releaseDate": "2018-07-24",
+      "longDescription": "It's the challenge, buy - Fix it , then possible keep it or send it back into circulation",
       "genres": [
-        "educational"
-      ],
-      "thumbnail": "https://i.ibb.co/2FTj51R/IMG-20200711-172405.jpg",
-      "releaseDate": "2020-07-11",
-      "shortDescription": "I have been collecting them since I was little, now I can tinker and fix them",
-      "longDescription": "For myself I like the challenge of buying a vacuum and seeing if I can get it to work. If I like it long enough, it becomes part of my room otherwise it's restored and back into circulation for either Goodwill or Salvation Army. But sometimes, I found a really good deal on OfferUp",
-      "tags": [
-        "Series"
+        "documentary"
+      ]
+    },
+    {
+      "id": "5a74edbccaf6441a8d71ac4692694c4b",
+      "title": "How can a dyson clean a room",
+      "content": {
+        "dateAdded": "2018-07-29T00:24:04+00:00",
+        "videos": [
+          {
+            "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_td4y6tcj/v/12/ev/1/flavorId/0_lr7zybh4/fileName/dyson_room_(Source).mp4/forceproxy/true/name/a.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 326,
+        "validityPeriodEnd": "4000-07-12T00:24:12+00:00"
+      },
+      "thumbnail": "https://i.ibb.co/fkWvqpQ/dyson1.jpg",
+      "shortDescription": "How can a dyson clean a room",
+      "releaseDate": "2018-07-29",
+      "longDescription": "How can a dyson clean a room",
+      "genres": [
+        "documentary"
       ]
     }
   ],
-  "categories": [
+  "playlists": [
     {
-      "name": "The Little Vacuum Repairman",
-      "query": "Series",
-      "order": "chronological"
+      "name": "Eureka",
+      "itemIds": [
+        "f284520377ad4f90984b8c03c6fd6ce1"
+      ]
+    },
+    {
+      "name": "Dyson",
+      "itemIds": [
+        "5a74edbccaf6441a8d71ac4692694c4b"
+      ]
     }
   ]
 }
