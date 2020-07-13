@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-13T12:54:59+00:00",
+  "lastUpdated": "2020-07-13T12:59:02+00:00",
   "providerName": "ScrambledBliss",
   "language": "en-US",
   "series": [
@@ -32,7 +32,7 @@
               "longDescription": "It's the challenge, buy - Fix it , then possible keep it or send it back into circulation"
             }
           ],
-          "thumbnail": ""
+          "thumbnail": "https://i.ibb.co/DDNp0dR/Eureka.jpg"
         }
       ],
       "genres": [
@@ -43,7 +43,7 @@
       "shortDescription": "I find them mostly at Goodwill, but sometimes you abandon them and it's a quick fix.",
       "longDescription": "Determined, most of you just toss it out without even clearing the clog",
       "tags": [
-        "Eureka"
+        "Series"
       ]
     },
     {
@@ -86,18 +86,15 @@
       "shortDescription": "D Y S O N :  A Rare Find mostly at GoodWill ranging from $20 or Higher",
       "longDescription": "D Y S O N :  A Rare Find mostly at GoodWill ranging from $20 or Higher",
       "tags": [
-        "Dyson"
+        "Series"
       ]
     }
   ],
   "categories": [
     {
-      "name": "Eureka",
-      "query": "Eureka"
-    },
-    {
-      "name": "Dyson",
-      "query": "Dyson"
+      "name": "Series",
+      "query": "Series",
+      "order": "chronological"
     }
   ]
 }
