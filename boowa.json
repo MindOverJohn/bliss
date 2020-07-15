@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-10T10:52:39+00:00",
+  "lastUpdated": "2020-07-15T10:53:33+00:00",
   "providerName": "Boowa and Kwala",
   "language": "en-US",
   "series": [
@@ -3692,6 +3692,321 @@
               "releaseDate": "2008-06-01",
               "shortDescription": "Découvre la chanson de Noël de Kwala, et saute par ci et saute par là !!!",
               "longDescription": "Découvre la chanson de Noël de Kwala, et saute par ci et saute par là !!!"
+            },
+            {
+              "id": "b892793081244a8d8a7be374c3fe8992",
+              "title": "Morey Morey!",
+              "content": {
+                "dateAdded": "2020-07-15T09:35:32+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_31ow30gt/v/2/ev/1/flavorId/0_ou6tx27i/fileName/boardSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 81,
+                "validityPeriodEnd": "4000-07-15T09:42:30+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/Mh2M43Q/Bodyboarding.jpg",
+              "episodeNumber": 49,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "En attendant la parfaite.... vaaaaaague !",
+              "longDescription": "En attendant la parfaite.... vaaaaaague !"
+            },
+            {
+              "id": "e12563a4fe324109917dabaca51509f4",
+              "title": "Au revoir Boowa et Kwala",
+              "content": {
+                "dateAdded": "2020-07-15T09:44:12+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_kjfrzqib/v/2/ev/1/flavorId/0_3y4joyw2/fileName/bksong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 75,
+                "validityPeriodEnd": "4000-07-15T09:47:44+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/710QMS6/Boowa-Kwala-Theme-Tune.jpg",
+              "episodeNumber": 50,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala quittent le pays des koalas en chanson",
+              "longDescription": "Boowa et Kwala quittent le pays des koalas en chanson"
+            },
+            {
+              "id": "2f80907ef1ae4d36b6c25297239bc4e3",
+              "title": "La chanson des oiseaux episode50",
+              "content": {
+                "dateAdded": "2020-07-15T09:48:59+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4qethssx/v/2/ev/1/flavorId/0_4ekz7eiy/fileName/birdSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 93,
+                "validityPeriodEnd": "4000-07-15T09:52:11+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/NWb6mx7/The-Singalong-Birdy.jpg",
+              "episodeNumber": 51,
+              "releaseDate": "2020-07-15",
+              "shortDescription": "Chante avec nous et siffle avec les oiseaux !",
+              "longDescription": "Chante avec nous et siffle avec les oiseaux !"
+            },
+            {
+              "id": "ac7f23c3f6cd4201a779d1fd690d662d",
+              "title": "Une abeille pareille",
+              "content": {
+                "dateAdded": "2020-07-15T09:54:40+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_b0hckqam/v/2/ev/1/flavorId/0_m5phodec/fileName/beeSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 49,
+                "validityPeriodEnd": "4000-07-15T09:56:35+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/mBtJr5P/busybee.jpg",
+              "episodeNumber": 52,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Chante avec Papa Koala : Une abeille, elle est pareille qu'une autre abeille... Ou fais des bzzz avec Boowa et Kwala !",
+              "longDescription": "Chante avec Papa Koala : Une abeille, elle est pareille qu'une autre abeille... Ou fais des bzzz avec Boowa et Kwala !"
+            },
+            {
+              "id": "8dea44cae41b428cb1a77c7f891eb73c",
+              "title": "Bonjour Monsieur l'écureuil",
+              "content": {
+                "dateAdded": "2020-07-15T10:00:20+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_chvg40sy/v/2/ev/1/flavorId/0_cv74gta8/fileName/watchingMeSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 99,
+                "validityPeriodEnd": "4000-07-15T10:04:00+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/vsKvJZk/Hello-Mister-Squirrel.jpg",
+              "episodeNumber": 53,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Je te vois me regarder, te regarder !",
+              "longDescription": "Je te vois me regarder, te regarder !"
+            },
+            {
+              "id": "98bf6be860c344a3909dc1e212e525c1",
+              "title": "Quand tu ouvres une boîte à musique",
+              "content": {
+                "dateAdded": "2020-07-15T10:07:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_zv98s8m4/v/2/ev/1/flavorId/0_q8ae7aqp/fileName/musicboxSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 56,
+                "validityPeriodEnd": "4000-07-15T10:08:07+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/K2r0sc8/When-you-open-up-a-music-box.jpg",
+              "episodeNumber": 54,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Quand tu ouvres une boîte à jouets, les jouets restent muets, mais quand tu ouvres une boîte à musique...",
+              "longDescription": "Quand tu ouvres une boîte à jouets, les jouets restent muets, mais quand tu ouvres une boîte à musique..."
+            },
+            {
+              "id": "e73accbdf9d24a20b0d27391ab546572",
+              "title": "Les 6 grenouilles",
+              "content": {
+                "dateAdded": "2020-07-15T10:10:34+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_aohwcpj5/v/2/ev/1/flavorId/0_jh00zws0/fileName/sixFrogsSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 53,
+                "validityPeriodEnd": "4000-07-15T10:11:52+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/7ykhqHC/Six-green-frogs.jpg",
+              "episodeNumber": 55,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Elles font QUOI ces grenouilles ?",
+              "longDescription": "Elles font QUOI ces grenouilles ?"
+            },
+            {
+              "id": "9f5d45f7e24b43e089f4bf7e6a5e75eb",
+              "title": "Manger, manger, manger",
+              "content": {
+                "dateAdded": "2020-07-15T10:14:28+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_aeqzokb0/v/2/ev/1/flavorId/0_mms9xphn/fileName/munchsong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 148,
+                "validityPeriodEnd": "4000-07-15T10:15:48+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/sPFnXC1/Munchie-munchie-munchie.jpg",
+              "episodeNumber": 56,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa chante la bouche pleine. C'est très malpoli !",
+              "longDescription": "Boowa chante la bouche pleine. C'est très malpoli !"
+            },
+            {
+              "id": "35c12d0bab6142a089ad1d729dc4be6d",
+              "title": "La chanson des lampion",
+              "content": {
+                "dateAdded": "2020-07-15T10:19:16+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_4y2uador/v/2/ev/1/flavorId/0_7msuvnbc/fileName/lightSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 54,
+                "validityPeriodEnd": "4000-07-15T10:20:25+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/jyqQJh1/The-Festival-of-Lights.jpg",
+              "episodeNumber": 57,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Combien de lampions faut-il pour fêter la fête des lumières ?",
+              "longDescription": "Combien de lampions faut-il pour fêter la fête des lumières ?"
+            },
+            {
+              "id": "5da1d03ad3a94ab5a19a0c66529a5c7f",
+              "title": "Quelle couleur avons-nous ?",
+              "content": {
+                "dateAdded": "2020-07-15T10:23:04+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_gkj3m7bg/v/2/ev/1/flavorId/0_92suyvyl/fileName/colorSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74,
+                "validityPeriodEnd": "4000-07-15T10:24:05+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/r3W7dLq/Finger-Painting.jpg",
+              "episodeNumber": 58,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Boowa et Kwala mélangent les couleurs primaires jaune, rouge et bleu entre elles... Papi Koala connaît bien le mélange des couleurs. Et toi ?",
+              "longDescription": "Boowa et Kwala mélangent les couleurs primaires jaune, rouge et bleu entre elles... Papi Koala connaît bien le mélange des couleurs. Et toi ?"
+            },
+            {
+              "id": "995aa846cf7a44c98874e8bac0bf996f",
+              "title": "La chanson de l'aspirateur",
+              "content": {
+                "dateAdded": "2020-07-15T10:27:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_y9w43s28/v/2/ev/1/flavorId/0_81gfqdc0/fileName/cleanSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 77,
+                "validityPeriodEnd": "4000-07-15T10:28:06+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/fNJ2n9X/Tyding-Up.jpg",
+              "episodeNumber": 59,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Quand on doit tout ranger, tout nettoyer, une petite mélodie rigolote est toujours la bienvenue pour se donner du courage !",
+              "longDescription": "Quand on doit tout ranger, tout nettoyer, une petite mélodie rigolote est toujours la bienvenue pour se donner du courage !"
+            },
+            {
+              "id": "4c1fe818fe9148b4841d8d0895c9c935",
+              "title": "La chanson Pouet",
+              "content": {
+                "dateAdded": "2020-07-15T10:30:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_ojs2red6/v/2/ev/1/flavorId/0_tf6dslom/fileName/beepbeepSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 44,
+                "validityPeriodEnd": "4000-07-15T10:30:53+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/JkYfG2w/Vroom-Vroom.jpg",
+              "episodeNumber": 60,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Voilà LA chanson à apprendre pour chanter pendant les trajets en voitures, qu'elles soient vraies ou en carton !",
+              "longDescription": "Voilà LA chanson à apprendre pour chanter pendant les trajets en voitures, qu'elles soient vraies ou en carton !"
+            },
+            {
+              "id": "9806bcce36ec44c3a9c3649ef5790df7",
+              "title": "Un ananas, deux ananas",
+              "content": {
+                "dateAdded": "2020-07-15T10:40:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_wvrpvu77/v/2/ev/1/flavorId/0_j03jvr34/fileName/bananasong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 88,
+                "validityPeriodEnd": "4000-07-15T10:41:00+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/q0phHMJ/Boowa-Songs.jpg",
+              "episodeNumber": 61,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Kwala chante pendant que les ananas... lisent",
+              "longDescription": "Kwala chante pendant que les ananas... lisent"
+            },
+            {
+              "id": "e8bf3c5df94b437aabfe73f17c025241",
+              "title": "Le bonhomme rigolo",
+              "content": {
+                "dateAdded": "2020-07-15T10:47:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_r1r04fp0/v/2/ev/1/flavorId/0_e7yz18ry/fileName/song_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 74,
+                "validityPeriodEnd": "4000-07-15T10:48:29+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/3B4L8jf/The-song.jpg",
+              "episodeNumber": 62,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Des boutons pour les yeux, des boutons pour la bouche... chante avec Boowa et Kwala !",
+              "longDescription": "Des boutons pour les yeux, des boutons pour la bouche... chante avec Boowa et Kwala !"
+            },
+            {
+              "id": "7fb407669c304bf4b9d1f5c414c20e74",
+              "title": "J'aime la neige",
+              "content": {
+                "dateAdded": "2020-07-15T10:51:55+00:00",
+                "videos": [
+                  {
+                    "url": "https://kaltura.getstreamhosting.com/p/216/sp/21600/serveFlavor/entryId/0_fwa5f706/v/2/ev/1/flavorId/0_w9izghkd/fileName/snowSong_fr_(Source).MP4/forceproxy/true/name/a.MP4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 61,
+                "validityPeriodEnd": "4000-07-15T10:53:14+00:00"
+              },
+              "thumbnail": "https://i.ibb.co/KK7R9Xw/I-love-snow.jpg",
+              "episodeNumber": 63,
+              "releaseDate": "2008-06-01",
+              "shortDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent...",
+              "longDescription": "Il y a tant de choses à faire avec de la neige ! Ecoute bien ce que Boowa et Kwala proposent..."
             }
           ],
           "thumbnail": "https://i.ibb.co/0Zy1Jd9/The-Running-Song.jpg"
