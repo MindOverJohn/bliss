@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-21T09:46:02+00:00",
+  "lastUpdated": "2020-07-21T09:49:42+00:00",
   "providerName": "ScrambledBliss",
   "language": "en-US",
   "series": [
@@ -109,6 +109,7 @@
                   }
                 ],
                 "duration": 355,
+                "validityPeriodStart": "2018-08-01T09:49:01+00:00",
                 "validityPeriodEnd": "4000-07-21T05:05:40+00:00"
               },
               "thumbnail": "https://i.ibb.co/9cZK24g/bissel1.jpg",
