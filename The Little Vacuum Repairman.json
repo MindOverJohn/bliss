@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-08-07T10:12:34+00:00",
+  "lastUpdated": "2020-08-07T10:20:52+00:00",
   "providerName": "ScrambledBliss",
   "language": "en-US",
   "series": [
@@ -165,7 +165,9 @@
           "thumbnail": "https://i.ibb.co/r7PSJK8/vlog.jpg"
         }
       ],
-      "genres": [],
+      "genres": [
+        "documentary"
+      ],
       "thumbnail": "https://i.ibb.co/r7PSJK8/vlog.jpg",
       "releaseDate": "2020-08-06",
       "shortDescription": "These are the days, it's not a test it's just information for you",
