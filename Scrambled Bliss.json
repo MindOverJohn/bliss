@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-08-17T06:48:37+00:00",
+  "lastUpdated": "2020-08-17T07:04:20+00:00",
   "providerName": "www.scrambledbliss.webplayer.space",
   "language": "en-US",
   "series": [
@@ -251,7 +251,9 @@
           "thumbnail": "https://i.ibb.co/N2wzd7Y/pdn.png"
         }
       ],
-      "genres": [],
+      "genres": [
+        "news"
+      ],
       "thumbnail": "https://i.ibb.co/N2wzd7Y/pdn.png",
       "releaseDate": "2020-08-16",
       "shortDescription": "Where the news already happened, and we are just getting caught up.",
@@ -371,7 +373,9 @@
           "thumbnail": "https://i.ibb.co/ggx2mH4/uan.png"
         }
       ],
-      "genres": [],
+      "genres": [
+        "documentary"
+      ],
       "thumbnail": "https://i.ibb.co/ggx2mH4/uan.png",
       "releaseDate": "2020-08-17",
       "shortDescription": "UAN : Unknown Ad Newtork is launched",
@@ -511,7 +515,9 @@
           "thumbnail": "https://i.ibb.co/qyLBqJ8/biztale800450.png"
         }
       ],
-      "genres": [],
+      "genres": [
+        "documentary"
+      ],
       "thumbnail": "https://i.ibb.co/qyLBqJ8/biztale800450.png",
       "releaseDate": "2020-08-17",
       "shortDescription": "Every Business has a Story, What is yours?",
